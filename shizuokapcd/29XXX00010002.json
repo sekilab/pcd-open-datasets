@@ -46,6 +46,7 @@
   ],
   "uri": "https://pointcloud.pref.shizuoka.jp/lasmap/ankenmap?ankenno=29XXX00010002",
   "license": "CC BY 4.0",
+  "licenser": "静岡県ＰＣＤＢ",
   "lasuri": [
     "https://pointcloud.pref.shizuoka.jp/lasmap/public/29XXX00010002/29XXX00010002-1.las",
     "https://pointcloud.pref.shizuoka.jp/lasmap/public/29XXX00010002/29XXX00010002-2.las",
