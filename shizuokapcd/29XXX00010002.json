@@ -1,0 +1,57 @@
+{
+  "name": "29XXX00010002",
+  "xy": [
+    [
+      -71016.5,
+      -142633.0625
+    ],
+    [
+      -70975.96875,
+      -142653.90625
+    ],
+    [
+      -70978.46875,
+      -142668.03125
+    ],
+    [
+      -70960.40625,
+      -142665.375
+    ],
+    [
+      -70960.25,
+      -142613.4375
+    ]
+  ],
+  "lonlat": [
+    [
+      137.7247106283903,
+      34.711804475805295
+    ],
+    [
+      137.725145816803,
+      34.711618717192835
+    ],
+    [
+      137.7251169830561,
+      34.71148973322244
+    ],
+    [
+      137.72531446069482,
+      34.711537962906775
+    ],
+    [
+      137.7253168076277,
+      34.71199133642184
+    ]
+  ],
+  "uri": "https://pointcloud.pref.shizuoka.jp/lasmap/ankenmap?ankenno=29XXX00010002",
+  "license": "CC BY 4.0",
+  "lasuri": [
+    "https://pointcloud.pref.shizuoka.jp/lasmap/public/29XXX00010002/29XXX00010002-1.las",
+    "https://pointcloud.pref.shizuoka.jp/lasmap/public/29XXX00010002/29XXX00010002-2.las",
+    "https://pointcloud.pref.shizuoka.jp/lasmap/public/29XXX00010002/29XXX00010002-3.las",
+    "https://pointcloud.pref.shizuoka.jp/lasmap/public/29XXX00010002/29XXX00010002-4.las",
+    "https://pointcloud.pref.shizuoka.jp/lasmap/public/29XXX00010002/29XXX00010002-5.las",
+    "https://pointcloud.pref.shizuoka.jp/lasmap/public/29XXX00010002/29XXX00010002-6.las"
+  ]
+}
