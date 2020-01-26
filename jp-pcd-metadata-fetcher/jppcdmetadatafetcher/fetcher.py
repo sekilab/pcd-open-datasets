@@ -47,6 +47,7 @@ class TextDownloader(luigi.Task):
 class ShizuokaPCDProductList(luigi.Task):
     url = luigi.Parameter(
         'https://pointcloud.pref.shizuoka.jp/lasmap/ankenmapsrc?request=MarkerSet&Xmax=139.6856689453125&Xmin=137.08053588867188&Ymax=36.097938036628065&Ymin=33.83962341851979')
+    info_base_url = 'https://pointcloud.pref.shizuoka.jp/lasmap/ankendetail?ankenno={}'
 
     def requires(self):
         return TextDownloader(os.path.join('tmp', 'shizuoka-pcd-product-list.txt'), self.url)
@@ -64,9 +65,22 @@ class ShizuokaPCDProductList(luigi.Task):
                 continue
             record = {
                 'id': row[0],
-                'name': row[1],
-                'lon': float(row[2]),
-                'lat': float(row[3]),
+                'name': {
+                    'value': row[1],
+                },
+                'area': {
+                    'type': 'geo:json',
+                    'value': {
+                        'type': 'Point',
+                        'coordinates': [float(row[2]), float(row[3])]
+                    }
+                },
+                'url': {
+                    'value': 'project/{}.json'.format(row[0]),
+                },
+                'originalUrl': {
+                    'value': self.info_base_url.format(row[0])
+                },
             }
             records.append(record)
 
