@@ -96,7 +96,7 @@ class ShizuokaPCDProductInfo(luigi.Task):
     def output(self):
         return luigi.LocalTarget(
             os.path.join(
-                'shizuokapcd', '{}.json'.format(self.product_id)))
+                'shizuokapcd', 'product', '{}.json'.format(self.product_id)))
 
     def run(self):
         info_raw, geojson_raw = [
@@ -139,17 +139,21 @@ class ShizuokaPCDProductInfo(luigi.Task):
                         las_elem[0].get('href'))
                     las_urls.append(las_url)
             else:
-                output_info[key_maps[key]] = str(value.text_content())
+                output_info[key_maps[key]] = {
+                    'value': str(value.text_content())
+                }
 
         # reshape date
         for key in ['registeredDate', 'measuredDate']:
-            value = output_info[key]
+            value = output_info[key]['value']
             if type(value) is str and len(value) > 0:
                 parsed_date = parse_japanera(value)
-                output_info[key] = parsed_date.strftime('%Y/%d/%m')
+                output_info[key] = {
+                    'value': parsed_date.strftime('%Y-%m-%d')
+                }
 
         description = ', '.join([
-            output_info[x] for x in [
+            output_info[x]['value'] for x in [
                 'name',
                 'contractorName',
             ]
@@ -182,8 +186,22 @@ class ShizuokaPCDProductInfo(luigi.Task):
                 'value': product_license,
             },
         })
-        output_json = json.dumps(output_info, indent=2, ensure_ascii=False)
-        print(output_json)
+
+        with self.output().open('w') as f:
+            json.dump(output_info, f, indent=2, ensure_ascii=False)
+
+
+class GenerateAllProductInfo(luigi.Task):
+    def requires(self):
+        return ShizuokaPCDProductList()
+
+    def run(self):
+        with self.input().open() as f:
+            product_list = json.load(f)
+        tasks = []
+        for product in product_list:
+            tasks.append(ShizuokaPCDProductInfo(product_id=product['id']))
+        yield tasks
 
 
 def command():
