@@ -1,8 +1,32 @@
 # -*- coding: utf-8 -*-
 import json
 import luigi
+import lxml.html
+import re
 import os
 import requests
+
+from datetime import datetime
+from urllib.parse import urljoin
+
+
+def parse_japanera(datestr):
+    offsets = {
+        '昭和': 1926-1,
+        '平成': 1989-1,
+        '令和': 2019-1,
+    }
+    m = re.match(
+        r'(\w{2})([0-9]+)年([0-9]+)月([0-9]+)日',
+        datestr)
+    if m is None:
+        return datestr
+    year, month, date = (
+        offsets[m.group(1)]+int(m.group(2)),
+        int(m.group(3)),
+        int(m.group(4))
+    )
+    return datetime(year, month, date, 0, 0)
 
 
 class TextDownloader(luigi.Task):
@@ -48,6 +72,118 @@ class ShizuokaPCDProductList(luigi.Task):
 
         with self.output().open('w') as f:
             json.dump(records, f, indent=2, ensure_ascii=False)
+
+
+class ShizuokaPCDProductInfo(luigi.Task):
+    info_base_url = 'https://pointcloud.pref.shizuoka.jp/lasmap/ankendetail?ankenno={}'
+    geojson_base_url = 'https://pointcloud.pref.shizuoka.jp/lasmap/ankenmapsrc?request=GetGeoJson&KojiNo={}'
+    product_id = luigi.Parameter()
+
+    def requires(self):
+        return [
+            TextDownloader(
+                os.path.join(
+                    'tmp',
+                    'shizuoka-pcd-product-info-{}.txt'.format(self.product_id)),
+                self.info_base_url.format(self.product_id)),
+            TextDownloader(
+                os.path.join(
+                    'tmp',
+                    'shizuoka-pcd-product-geojson-{}.txt'.format(self.product_id)),
+                self.geojson_base_url.format(self.product_id)),
+        ]
+
+    def output(self):
+        return luigi.LocalTarget(
+            os.path.join(
+                'shizuokapcd', '{}.json'.format(self.product_id)))
+
+    def run(self):
+        info_raw, geojson_raw = [
+            x.open('r').read()
+            for x in self.input()
+        ]
+        # print(info_raw, geojson_raw)
+
+        # parse info
+        info_root = lxml.html.fromstring(info_raw)
+        table = info_root.xpath('//table')[0]
+        elems = list(filter(lambda x: type(x) is lxml.html.HtmlElement, table))
+        columns = [x[0].text_content() for x in elems]
+        values = [x[1] for x in elems]
+
+        output_info = {}
+        key_maps = {
+            '工事番号': 'productNo',
+            '案件名称': 'name',
+            '受注業者': 'contractorName',
+            '工期': 'constructionPeriod',
+            '登録日付': 'registeredDate',
+            '３Ｄデータ取得日': 'measuredDate',
+            '出典明記方法': 'sourceStatement',
+        }
+        las_urls = []
+        las_sizes = []
+        for key, value in zip(columns, values):
+            if key == 'ライセンス':
+                product_license = value[0].get('href')
+            elif key == '3Dデータ':
+                for las_elem in value[0]:
+                    # size
+                    file_size = las_elem.text_content()\
+                        .replace(') ', '').split('：')[-1]
+                    las_sizes.append(file_size)
+                    # url
+                    las_url = urljoin(
+                        'https://pointcloud.pref.shizuoka.jp/lasmap/',
+                        las_elem[0].get('href'))
+                    las_urls.append(las_url)
+            else:
+                output_info[key_maps[key]] = str(value.text_content())
+
+        # reshape date
+        for key in ['registeredDate', 'measuredDate']:
+            value = output_info[key]
+            if type(value) is str and len(value) > 0:
+                parsed_date = parse_japanera(value)
+                output_info[key] = parsed_date.strftime('%Y/%d/%m')
+
+        description = ', '.join([
+            output_info[x] for x in [
+                'name',
+                'contractorName',
+            ]
+        ])
+
+        geojson = json.loads(geojson_raw)
+
+        output_info.update({
+            'id': 'shizuoka-pcd-{}'.format(self.product_id),
+            'type': 'PointCloudDatabase',
+            'location': {
+                'type': 'geo:json',
+                'value': geojson['features'][0]['geometry']
+            },
+            'description': {
+                'value': description,
+            },
+            'source': {
+                'type': 'URL',
+                'value': 'https://pointcloud.pref.shizuoka.jp',
+            },
+            'lasUrls': {
+                'value': las_urls,
+            },
+            'lasSizes': {
+                'value': las_sizes,
+            },
+            'license': {
+                'type': 'URL',
+                'value': product_license,
+            },
+        })
+        output_json = json.dumps(output_info, indent=2, ensure_ascii=False)
+        print(output_json)
 
 
 def command():
