@@ -11,7 +11,7 @@ with open(path.join(here, 'requirements.txt'), encoding='utf-8') as f:
     install_requires = f.read().split('\n')
 
 setup(
-    name='pcd-metadata-fetcher',
+    name='jp-pcd-metadata-fetcher',
     version='0.0.1',
     description='Japan Point Cloud Database Metadata Fetcher',
     url='https://github.com/colspan/pcd-open-datasets',
