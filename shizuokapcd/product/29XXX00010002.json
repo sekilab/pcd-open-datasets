@@ -1,0 +1,86 @@
+{
+  "productNo": {
+    "value": "29-XXX00-01-00-02"
+  },
+  "name": {
+    "value": "平成２９年度建設工事技術管理事業UAV計測及び活用に係る説明資料作成業務（浜松市発注）（浜松城_2）"
+  },
+  "contractorName": {
+    "value": "（株）フジヤマ"
+  },
+  "constructionPeriod": {
+    "value": ""
+  },
+  "registeredDate": {
+    "value": "2018-10-29"
+  },
+  "measuredDate": {
+    "value": ""
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-29XXX00010002",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            137.72380143562,
+            34.711125629344
+          ],
+          [
+            137.72379011798,
+            34.712337012112
+          ],
+          [
+            137.72588737855,
+            34.712350355485
+          ],
+          [
+            137.72589866562,
+            34.711138972117
+          ],
+          [
+            137.72380143562,
+            34.711125629344
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "平成２９年度建設工事技術管理事業UAV計測及び活用に係る説明資料作成業務（浜松市発注）（浜松城_2）, （株）フジヤマ"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/29XXX00010002/29XXX00010002-1.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/29XXX00010002/29XXX00010002-2.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/29XXX00010002/29XXX00010002-3.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/29XXX00010002/29XXX00010002-4.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/29XXX00010002/29XXX00010002-5.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/29XXX00010002/29XXX00010002-6.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "115MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

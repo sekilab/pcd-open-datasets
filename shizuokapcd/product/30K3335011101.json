@@ -1,0 +1,78 @@
+{
+  "productNo": {
+    "value": "30-K3335-01-11-01"
+  },
+  "name": {
+    "value": "平成３０年度［第３０-Ｋ３３３５-０１号］一級河川安倍川豪雨災害等緊急対策事業（局地豪雨等災害対策）工事（護岸工）"
+  },
+  "contractorName": {
+    "value": "（株）白鳥建設"
+  },
+  "constructionPeriod": {
+    "value": "平成30年8月14日 ～ 平成31年1月31日"
+  },
+  "registeredDate": {
+    "value": "2019-03-18"
+  },
+  "measuredDate": {
+    "value": "2019-03-13"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-30K3335011101",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            137.44645669982,
+            35.883143685574
+          ],
+          [
+            137.44644239225,
+            35.884223862868
+          ],
+          [
+            137.44810805289,
+            35.88423846268
+          ],
+          [
+            137.44812233785,
+            35.883158284811
+          ],
+          [
+            137.44645669982,
+            35.883143685574
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "平成３０年度［第３０-Ｋ３３３５-０１号］一級河川安倍川豪雨災害等緊急対策事業（局地豪雨等災害対策）工事（護岸工）, （株）白鳥建設"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30K3335011101/30K3335011101-1.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30K3335011101/30K3335011101-2.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "200MB",
+      "193MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

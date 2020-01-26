@@ -1,0 +1,76 @@
+{
+  "productNo": {
+    "value": "30-I8399-01-17-03"
+  },
+  "name": {
+    "value": "平成30年度路面変状調査((一)244号線_大東菊川線(11kp))"
+  },
+  "contractorName": {
+    "value": "ニチレキ(株)静岡支店"
+  },
+  "constructionPeriod": {
+    "value": ""
+  },
+  "registeredDate": {
+    "value": "2019-10-15"
+  },
+  "measuredDate": {
+    "value": "2019-03-31"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-30I8399011703",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            138.13217564329,
+            34.75362172576
+          ],
+          [
+            138.13217315533,
+            34.754182823111
+          ],
+          [
+            138.13283244512,
+            34.754184812714
+          ],
+          [
+            138.13283492861,
+            34.753623715321
+          ],
+          [
+            138.13217564329,
+            34.75362172576
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "平成30年度路面変状調査((一)244号線_大東菊川線(11kp)), ニチレキ(株)静岡支店"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30I8399011703/30I8399011703-1.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "67MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

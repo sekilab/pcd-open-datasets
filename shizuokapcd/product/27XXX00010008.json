@@ -1,0 +1,90 @@
+{
+  "productNo": {
+    "value": "27-XXX00-01-00-08"
+  },
+  "name": {
+    "value": "平成２７年度市単独道路防災事業道路現況調査業務（浜松市発注）（S3_国道362号線_7）"
+  },
+  "contractorName": {
+    "value": "（株）フジヤマ"
+  },
+  "constructionPeriod": {
+    "value": ""
+  },
+  "registeredDate": {
+    "value": "2018-10-29"
+  },
+  "measuredDate": {
+    "value": "2016-01-19"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-27XXX00010008",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            137.91202494392,
+            35.008253287727
+          ],
+          [
+            137.91185643201,
+            35.031788905089
+          ],
+          [
+            137.97931305521,
+            35.032097110796
+          ],
+          [
+            137.97946224205,
+            35.008561225758
+          ],
+          [
+            137.91202494392,
+            35.008253287727
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "平成２７年度市単独道路防災事業道路現況調査業務（浜松市発注）（S3_国道362号線_7）, （株）フジヤマ"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/27XXX00010008/27XXX00010008-1.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/27XXX00010008/27XXX00010008-2.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/27XXX00010008/27XXX00010008-3.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/27XXX00010008/27XXX00010008-4.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/27XXX00010008/27XXX00010008-5.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/27XXX00010008/27XXX00010008-6.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/27XXX00010008/27XXX00010008-7.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/27XXX00010008/27XXX00010008-8.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "150MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

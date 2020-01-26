@@ -1,0 +1,78 @@
+{
+  "productNo": {
+    "value": "29-W9350-01-11-01"
+  },
+  "name": {
+    "value": "平成２９年度［第２９-Ｗ９３５０-０１号］清水港　県単独維持浚渫（緊急）航路・泊地浚渫工事"
+  },
+  "contractorName": {
+    "value": "株式会社古川組"
+  },
+  "constructionPeriod": {
+    "value": "平成29年7月11日 ～ 平成30年3月26日"
+  },
+  "registeredDate": {
+    "value": "2018-03-16"
+  },
+  "measuredDate": {
+    "value": "2018-01-05"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-29W9350011101",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            138.49941847846,
+            35.001127234843
+          ],
+          [
+            138.49941843604,
+            35.007122841636
+          ],
+          [
+            138.50098815474,
+            35.007122839007
+          ],
+          [
+            138.50098808265,
+            35.001127232215
+          ],
+          [
+            138.49941847846,
+            35.001127234843
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "平成２９年度［第２９-Ｗ９３５０-０１号］清水港　県単独維持浚渫（緊急）航路・泊地浚渫工事, 株式会社古川組"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/29W9350011101/29W9350011101-1.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/29W9350011101/29W9350011101-2.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "200MB",
+      "43MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

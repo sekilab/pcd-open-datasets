@@ -1,0 +1,76 @@
+{
+  "productNo": {
+    "value": "01-R0107-60-13-18"
+  },
+  "name": {
+    "value": "新井関所＿６０"
+  },
+  "contractorName": {
+    "value": "不二総合"
+  },
+  "constructionPeriod": {
+    "value": ""
+  },
+  "registeredDate": {
+    "value": "2019-08-01"
+  },
+  "measuredDate": {
+    "value": "2019-07-10"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-01R0107601318",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            137.56021478657,
+            34.694342233435
+          ],
+          [
+            137.56020146309,
+            34.695520783332
+          ],
+          [
+            137.56127340365,
+            34.695529045546
+          ],
+          [
+            137.56128671194,
+            34.694350495287
+          ],
+          [
+            137.56021478657,
+            34.694342233435
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "新井関所＿６０, 不二総合"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/01R0107601318/01R0107601318-1.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "74MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

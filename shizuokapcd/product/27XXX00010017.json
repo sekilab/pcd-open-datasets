@@ -1,0 +1,84 @@
+{
+  "productNo": {
+    "value": "27-XXX00-01-00-17"
+  },
+  "name": {
+    "value": "平成２７年度市単独道路防災事業道路現況調査業務（浜松市発注）（S7_国道473号線_1）"
+  },
+  "contractorName": {
+    "value": "（株）フジヤマ"
+  },
+  "constructionPeriod": {
+    "value": ""
+  },
+  "registeredDate": {
+    "value": "2018-10-29"
+  },
+  "measuredDate": {
+    "value": "2016-01-21"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-27XXX00010017",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            137.75366474831,
+            35.057693158723
+          ],
+          [
+            137.75343842484,
+            35.082548878073
+          ],
+          [
+            137.79428001238,
+            35.082793440558
+          ],
+          [
+            137.79449395712,
+            35.057937497042
+          ],
+          [
+            137.75366474831,
+            35.057693158723
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "平成２７年度市単独道路防災事業道路現況調査業務（浜松市発注）（S7_国道473号線_1）, （株）フジヤマ"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/27XXX00010017/27XXX00010017-1.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/27XXX00010017/27XXX00010017-2.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/27XXX00010017/27XXX00010017-3.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/27XXX00010017/27XXX00010017-4.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/27XXX00010017/27XXX00010017-5.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "197MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

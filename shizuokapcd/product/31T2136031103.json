@@ -1,0 +1,92 @@
+{
+  "productNo": {
+    "value": "31-T2136-03-11-03"
+  },
+  "name": {
+    "value": "令和元年度治山（防災林造成）大渕３工事"
+  },
+  "contractorName": {
+    "value": "（株）榑林組"
+  },
+  "constructionPeriod": {
+    "value": "平成31年6月19日 ～ 平成32年2月28日"
+  },
+  "registeredDate": {
+    "value": "2019-11-26"
+  },
+  "measuredDate": {
+    "value": "2019-11-26"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-31T2136031103",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            138.00181078456,
+            34.660954069547
+          ],
+          [
+            138.00179818574,
+            34.663059083853
+          ],
+          [
+            138.00482361559,
+            34.663071409176
+          ],
+          [
+            138.0048361379,
+            34.660966393907
+          ],
+          [
+            138.00181078456,
+            34.660954069547
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "令和元年度治山（防災林造成）大渕３工事, （株）榑林組"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/31T2136031103/31T2136031103-1.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/31T2136031103/31T2136031103-2.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/31T2136031103/31T2136031103-3.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/31T2136031103/31T2136031103-4.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/31T2136031103/31T2136031103-5.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/31T2136031103/31T2136031103-6.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/31T2136031103/31T2136031103-7.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/31T2136031103/31T2136031103-8.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/31T2136031103/31T2136031103-9.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "41MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

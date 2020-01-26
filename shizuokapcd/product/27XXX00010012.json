@@ -1,0 +1,80 @@
+{
+  "productNo": {
+    "value": "27-XXX00-01-00-12"
+  },
+  "name": {
+    "value": "平成２７年度市単独道路防災事業道路現況調査業務（浜松市発注）（S1_両島二俣線）"
+  },
+  "contractorName": {
+    "value": "（株）フジヤマ"
+  },
+  "constructionPeriod": {
+    "value": ""
+  },
+  "registeredDate": {
+    "value": "2018-10-29"
+  },
+  "measuredDate": {
+    "value": "2016-01-21"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-27XXX00010012",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            137.79271931965,
+            34.866738589004
+          ],
+          [
+            137.79257379659,
+            34.883726849572
+          ],
+          [
+            137.81674263414,
+            34.88386508797
+          ],
+          [
+            137.81688318645,
+            34.86687674057
+          ],
+          [
+            137.79271931965,
+            34.866738589004
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "平成２７年度市単独道路防災事業道路現況調査業務（浜松市発注）（S1_両島二俣線）, （株）フジヤマ"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/27XXX00010012/27XXX00010012-1.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/27XXX00010012/27XXX00010012-2.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/27XXX00010012/27XXX00010012-3.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "200MB",
+      "200MB",
+      "12MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

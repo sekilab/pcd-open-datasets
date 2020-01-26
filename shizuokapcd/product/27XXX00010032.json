@@ -1,0 +1,80 @@
+{
+  "productNo": {
+    "value": "27-XXX00-01-00-32"
+  },
+  "name": {
+    "value": "平成２７年度市単独道路防災事業道路現況調査業務（浜松市発注）（S5_国道362号線_3）"
+  },
+  "contractorName": {
+    "value": "（株）フジヤマ"
+  },
+  "constructionPeriod": {
+    "value": ""
+  },
+  "registeredDate": {
+    "value": "2018-10-29"
+  },
+  "measuredDate": {
+    "value": "2016-01-26"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-27XXX00010032",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            137.67521478086,
+            34.814616160059
+          ],
+          [
+            137.67506930665,
+            34.829208226212
+          ],
+          [
+            137.7238157722,
+            34.829529011813
+          ],
+          [
+            137.72395265228,
+            34.814936772454
+          ],
+          [
+            137.67521478086,
+            34.814616160059
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "平成２７年度市単独道路防災事業道路現況調査業務（浜松市発注）（S5_国道362号線_3）, （株）フジヤマ"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/27XXX00010032/27XXX00010032-1.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/27XXX00010032/27XXX00010032-2.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/27XXX00010032/27XXX00010032-3.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "200MB",
+      "200MB",
+      "164MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

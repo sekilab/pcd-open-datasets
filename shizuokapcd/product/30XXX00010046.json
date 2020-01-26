@@ -1,0 +1,76 @@
+{
+  "productNo": {
+    "value": "30-XXX00-01-00-46"
+  },
+  "name": {
+    "value": "（国）152号周辺航空レーザ測量業務（浜松市発注）　４６／６３ （０８ＭＣ９６２Ｃ)"
+  },
+  "contractorName": {
+    "value": "中日本航空株式会社"
+  },
+  "constructionPeriod": {
+    "value": "平成29年12月13日 ～ 平成30年3月16日"
+  },
+  "registeredDate": {
+    "value": "2018-04-11"
+  },
+  "measuredDate": {
+    "value": "2017-12-21"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-30XXX00010046",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            137.90257703214,
+            35.199264657645
+          ],
+          [
+            137.90254597415,
+            35.203505628451
+          ],
+          [
+            137.90672740294,
+            35.203526188119
+          ],
+          [
+            137.90675824359,
+            35.199285214103
+          ],
+          [
+            137.90257703214,
+            35.199264657645
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "（国）152号周辺航空レーザ測量業務（浜松市発注）　４６／６３ （０８ＭＣ９６２Ｃ), 中日本航空株式会社"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30XXX00010046/30XXX00010046-1.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "153MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

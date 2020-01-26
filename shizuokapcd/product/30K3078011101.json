@@ -1,0 +1,82 @@
+{
+  "productNo": {
+    "value": "30-K3078-01-11-01"
+  },
+  "name": {
+    "value": "平成３０年度［第３０-Ｋ３０７８-０１号］一級河川気田川河川改良工事（河床掘削工）【ＩＣＴ導入型】"
+  },
+  "contractorName": {
+    "value": "（株）正久工業"
+  },
+  "constructionPeriod": {
+    "value": "平成30年9月27日 ～ 平成31年2月15日"
+  },
+  "registeredDate": {
+    "value": "2019-02-25"
+  },
+  "measuredDate": {
+    "value": "2019-02-25"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-30K3078011101",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            137.89393042657,
+            34.996373655275
+          ],
+          [
+            137.89388700482,
+            35.002262355104
+          ],
+          [
+            137.90142218439,
+            35.002299745545
+          ],
+          [
+            137.9014650664,
+            34.996411037587
+          ],
+          [
+            137.89393042657,
+            34.996373655275
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "平成３０年度［第３０-Ｋ３０７８-０１号］一級河川気田川河川改良工事（河床掘削工）【ＩＣＴ導入型】, （株）正久工業"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30K3078011101/30K3078011101-1.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30K3078011101/30K3078011101-2.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30K3078011101/30K3078011101-3.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30K3078011101/30K3078011101-4.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "200MB",
+      "200MB",
+      "200MB",
+      "135MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

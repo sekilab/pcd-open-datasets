@@ -1,0 +1,120 @@
+{
+  "productNo": {
+    "value": "30-XXX01-01-00-01"
+  },
+  "name": {
+    "value": "平成30年度韮山反射炉計測業務"
+  },
+  "contractorName": {
+    "value": "（株）正治組"
+  },
+  "constructionPeriod": {
+    "value": "平成30年9月19日"
+  },
+  "registeredDate": {
+    "value": "2018-10-18"
+  },
+  "measuredDate": {
+    "value": "2018-09-19"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-30XXX01010001",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            138.96166664534,
+            35.039284590392
+          ],
+          [
+            138.96167041638,
+            35.039954993712
+          ],
+          [
+            138.96264085468,
+            35.039951297333
+          ],
+          [
+            138.96263707571,
+            35.039280894104
+          ],
+          [
+            138.96166664534,
+            35.039284590392
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "平成30年度韮山反射炉計測業務, （株）正治組"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30XXX01010001/30XXX01010001-1.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30XXX01010001/30XXX01010001-2.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30XXX01010001/30XXX01010001-3.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30XXX01010001/30XXX01010001-4.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30XXX01010001/30XXX01010001-5.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30XXX01010001/30XXX01010001-6.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30XXX01010001/30XXX01010001-7.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30XXX01010001/30XXX01010001-8.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30XXX01010001/30XXX01010001-9.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30XXX01010001/30XXX01010001-10.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30XXX01010001/30XXX01010001-11.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30XXX01010001/30XXX01010001-12.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30XXX01010001/30XXX01010001-13.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30XXX01010001/30XXX01010001-14.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30XXX01010001/30XXX01010001-15.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30XXX01010001/30XXX01010001-16.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30XXX01010001/30XXX01010001-17.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30XXX01010001/30XXX01010001-18.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30XXX01010001/30XXX01010001-19.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30XXX01010001/30XXX01010001-20.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30XXX01010001/30XXX01010001-21.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30XXX01010001/30XXX01010001-22.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30XXX01010001/30XXX01010001-23.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "124MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "productNo": {
+    "value": "29-K2461-01-11-01"
+  },
+  "name": {
+    "value": "平成３０年度［第２９-Ｋ２４６１-０１号］一級河川安間川流域治水対策河川事業（防災・安全交付金）工事〔掘削工その６〕"
+  },
+  "contractorName": {
+    "value": "とやま建材（株）"
+  },
+  "constructionPeriod": {
+    "value": "平成30年5月18日 ～ 平成30年10月15日"
+  },
+  "registeredDate": {
+    "value": "2019-02-07"
+  },
+  "measuredDate": {
+    "value": "2019-09-05"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-29K2461011101",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            137.77905070193,
+            34.744120461601
+          ],
+          [
+            137.77902728651,
+            34.746815392707
+          ],
+          [
+            137.7822810298,
+            34.746834611791
+          ],
+          [
+            137.78230433957,
+            34.744139678766
+          ],
+          [
+            137.77905070193,
+            34.744120461601
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "平成３０年度［第２９-Ｋ２４６１-０１号］一級河川安間川流域治水対策河川事業（防災・安全交付金）工事〔掘削工その６〕, とやま建材（株）"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/29K2461011101/29K2461011101-1.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/29K2461011101/29K2461011101-2.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/29K2461011101/29K2461011101-3.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/29K2461011101/29K2461011101-4.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/29K2461011101/29K2461011101-5.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "24MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

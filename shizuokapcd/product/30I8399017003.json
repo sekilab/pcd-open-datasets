@@ -1,0 +1,80 @@
+{
+  "productNo": {
+    "value": "30-I8399-01-70-03"
+  },
+  "name": {
+    "value": "平成30年度路面変状調査((一)402号線_小笠山総合運動公園線(下り))"
+  },
+  "contractorName": {
+    "value": "ニチレキ(株)静岡支店"
+  },
+  "constructionPeriod": {
+    "value": ""
+  },
+  "registeredDate": {
+    "value": "2019-10-15"
+  },
+  "measuredDate": {
+    "value": "2019-03-31"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-30I8399017003",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            137.9692959998,
+            34.762262258127
+          ],
+          [
+            137.96928523202,
+            34.763944743743
+          ],
+          [
+            137.97132676774,
+            34.763953625101
+          ],
+          [
+            137.9713374941,
+            34.762271138931
+          ],
+          [
+            137.9692959998,
+            34.762262258127
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "平成30年度路面変状調査((一)402号線_小笠山総合運動公園線(下り)), ニチレキ(株)静岡支店"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30I8399017003/30I8399017003-1.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30I8399017003/30I8399017003-2.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30I8399017003/30I8399017003-3.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "200MB",
+      "200MB",
+      "56MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

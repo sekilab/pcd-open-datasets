@@ -1,0 +1,82 @@
+{
+  "productNo": {
+    "value": "28-XXX00-03-00-02"
+  },
+  "name": {
+    "value": "白糸の滝滝見橋周辺整備事業　その２"
+  },
+  "contractorName": {
+    "value": "富士設計株式会社（提供者）"
+  },
+  "constructionPeriod": {
+    "value": ""
+  },
+  "registeredDate": {
+    "value": "2017-03-01"
+  },
+  "measuredDate": {
+    "value": ""
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-28XXX00030002",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            137.65100063505,
+            36.068360299181
+          ],
+          [
+            137.65098585499,
+            36.069735615257
+          ],
+          [
+            137.65438750753,
+            36.069759662753
+          ],
+          [
+            137.65440222839,
+            36.068384345471
+          ],
+          [
+            137.65100063505,
+            36.068360299181
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "白糸の滝滝見橋周辺整備事業　その２, 富士設計株式会社（提供者）"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/28XXX00030002/28XXX00030002-1.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/28XXX00030002/28XXX00030002-2.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/28XXX00030002/28XXX00030002-3.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/28XXX00030002/28XXX00030002-4.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "200MB",
+      "200MB",
+      "200MB",
+      "80MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

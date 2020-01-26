@@ -1,0 +1,82 @@
+{
+  "productNo": {
+    "value": "30-I8399-01-30-14"
+  },
+  "name": {
+    "value": "平成30年度路面変状調査((一)258号線_豊浜磐田線)"
+  },
+  "contractorName": {
+    "value": "ニチレキ(株)静岡支店"
+  },
+  "constructionPeriod": {
+    "value": ""
+  },
+  "registeredDate": {
+    "value": "2019-10-15"
+  },
+  "measuredDate": {
+    "value": "2019-03-31"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-30I8399013014",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            137.86663500319,
+            34.712623715096
+          ],
+          [
+            137.8666220234,
+            34.714326232218
+          ],
+          [
+            137.86955350687,
+            34.714341436561
+          ],
+          [
+            137.8695664266,
+            34.712638918479
+          ],
+          [
+            137.86663500319,
+            34.712623715096
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "平成30年度路面変状調査((一)258号線_豊浜磐田線), ニチレキ(株)静岡支店"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30I8399013014/30I8399013014-1.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30I8399013014/30I8399013014-2.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30I8399013014/30I8399013014-3.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30I8399013014/30I8399013014-4.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "200MB",
+      "200MB",
+      "200MB",
+      "3MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

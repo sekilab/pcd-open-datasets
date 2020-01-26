@@ -1,0 +1,76 @@
+{
+  "productNo": {
+    "value": "30-K2664-01-11-04"
+  },
+  "name": {
+    "value": "平成３０年度［第３０-Ｋ２６６４-０１号］二級河川太田川広域河川改修事業（防災・安全交付金）工事（河道掘削工）（ICT導入型）【11-04】"
+  },
+  "contractorName": {
+    "value": "乗松建設（株）"
+  },
+  "constructionPeriod": {
+    "value": "平成31年3月30日 ～ 平成31年8月30日"
+  },
+  "registeredDate": {
+    "value": "2019-12-02"
+  },
+  "measuredDate": {
+    "value": "2019-11-11"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-30K2664011104",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            137.88793993266,
+            34.746329676114
+          ],
+          [
+            137.8879236072,
+            34.748542759282
+          ],
+          [
+            137.8899440824,
+            34.748552897385
+          ],
+          [
+            137.88996035399,
+            34.746339813386
+          ],
+          [
+            137.88793993266,
+            34.746329676114
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "平成３０年度［第３０-Ｋ２６６４-０１号］二級河川太田川広域河川改修事業（防災・安全交付金）工事（河道掘削工）（ICT導入型）【11-04】, 乗松建設（株）"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30K2664011104/30K2664011104-1.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "0MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

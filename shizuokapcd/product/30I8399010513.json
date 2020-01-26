@@ -1,0 +1,80 @@
+{
+  "productNo": {
+    "value": "30-I8399-01-05-13"
+  },
+  "name": {
+    "value": "平成30年度路面変状調査((国)150号(上り)_(BP-9kp))"
+  },
+  "contractorName": {
+    "value": "ニチレキ(株)静岡支店"
+  },
+  "constructionPeriod": {
+    "value": ""
+  },
+  "registeredDate": {
+    "value": "2019-10-15"
+  },
+  "measuredDate": {
+    "value": "2019-03-31"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-30I8399010513",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            138.16256019703,
+            34.623119725402
+          ],
+          [
+            138.16255642779,
+            34.624050853936
+          ],
+          [
+            138.16710363197,
+            34.624063348135
+          ],
+          [
+            138.16710735041,
+            34.623132219169
+          ],
+          [
+            138.16256019703,
+            34.623119725402
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "平成30年度路面変状調査((国)150号(上り)_(BP-9kp)), ニチレキ(株)静岡支店"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30I8399010513/30I8399010513-1.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30I8399010513/30I8399010513-2.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30I8399010513/30I8399010513-3.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "200MB",
+      "200MB",
+      "198MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

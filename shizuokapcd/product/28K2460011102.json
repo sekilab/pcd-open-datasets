@@ -1,0 +1,78 @@
+{
+  "productNo": {
+    "value": "28-K2460-01-11-02"
+  },
+  "name": {
+    "value": "平成２８年度［第２８-Ｋ２４６０-０１号］一級河川安間川流域治水対策河川事業（防災・安全交付金）工事〔築堤工〕"
+  },
+  "contractorName": {
+    "value": "文丘建設（株）"
+  },
+  "constructionPeriod": {
+    "value": "平成29年3月24日 ～ 平成29年8月31日"
+  },
+  "registeredDate": {
+    "value": "2017-10-08"
+  },
+  "measuredDate": {
+    "value": ""
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-28K2460011102",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            137.77907258564,
+            34.745973936557
+          ],
+          [
+            137.77906611698,
+            34.746718435618
+          ],
+          [
+            137.78200713333,
+            34.746735810316
+          ],
+          [
+            137.78201357561,
+            34.745991310776
+          ],
+          [
+            137.77907258564,
+            34.745973936557
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "平成２８年度［第２８-Ｋ２４６０-０１号］一級河川安間川流域治水対策河川事業（防災・安全交付金）工事〔築堤工〕, 文丘建設（株）"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/28K2460011102/28K2460011102-1.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/28K2460011102/28K2460011102-2.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "200MB",
+      "143MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

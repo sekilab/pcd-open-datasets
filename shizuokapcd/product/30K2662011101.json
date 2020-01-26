@@ -1,0 +1,76 @@
+{
+  "productNo": {
+    "value": "30-K2662-01-11-01"
+  },
+  "name": {
+    "value": "平成３０年度［第３０-Ｋ２６６２-０１号］二級河川敷地川総合流域防災事業（広域一般）（防災・安全交付金）工事（河道掘削工）【11-01】"
+  },
+  "contractorName": {
+    "value": "壬生産業（株）"
+  },
+  "constructionPeriod": {
+    "value": "平成31年3月30日 ～ 平成31年8月20日"
+  },
+  "registeredDate": {
+    "value": "2020-01-07"
+  },
+  "measuredDate": {
+    "value": "2019-12-20"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-30K2662011101",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            137.88382919758,
+            34.755720525888
+          ],
+          [
+            137.88381623926,
+            34.757464846123
+          ],
+          [
+            137.88476104869,
+            34.757469623469
+          ],
+          [
+            137.88477398715,
+            34.755725302925
+          ],
+          [
+            137.88382919758,
+            34.755720525888
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "平成３０年度［第３０-Ｋ２６６２-０１号］二級河川敷地川総合流域防災事業（広域一般）（防災・安全交付金）工事（河道掘削工）【11-01】, 壬生産業（株）"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30K2662011101/30K2662011101-1.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "1MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

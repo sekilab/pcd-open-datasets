@@ -1,0 +1,76 @@
+{
+  "productNo": {
+    "value": "30-I8399-01-87-19"
+  },
+  "name": {
+    "value": "平成30年度路面変状調査((主)3号線_豊橋湖西線)"
+  },
+  "contractorName": {
+    "value": "ニチレキ(株)静岡支店"
+  },
+  "constructionPeriod": {
+    "value": ""
+  },
+  "registeredDate": {
+    "value": "2019-10-15"
+  },
+  "measuredDate": {
+    "value": "2019-03-31"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-30I8399018719",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            137.54643127079,
+            34.714035674671
+          ],
+          [
+            137.54642302615,
+            34.71475390286
+          ],
+          [
+            137.54696272062,
+            34.71475812594
+          ],
+          [
+            137.5469709606,
+            34.714039897639
+          ],
+          [
+            137.54643127079,
+            34.714035674671
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "平成30年度路面変状調査((主)3号線_豊橋湖西線), ニチレキ(株)静岡支店"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30I8399018719/30I8399018719-1.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "70MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

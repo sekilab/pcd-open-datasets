@@ -1,0 +1,92 @@
+{
+  "productNo": {
+    "value": "30-K2663-01-11-01"
+  },
+  "name": {
+    "value": "平成３０年度［第３０-Ｋ２６６３-０１号］二級河川小薮川総合流域防災事業（広域一般）（防災・安全交付金）工事（河道掘削工）【11-01】"
+  },
+  "contractorName": {
+    "value": "壬生産業（株）"
+  },
+  "constructionPeriod": {
+    "value": "平成31年3月30日 ～ 平成31年8月30日"
+  },
+  "registeredDate": {
+    "value": "2019-12-26"
+  },
+  "measuredDate": {
+    "value": "2019-12-17"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-30K2663011101",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            137.88330442009,
+            34.760531777822
+          ],
+          [
+            137.88326053075,
+            34.766433026745
+          ],
+          [
+            137.88550375105,
+            34.766444368984
+          ],
+          [
+            137.88554748077,
+            34.760543117583
+          ],
+          [
+            137.88330442009,
+            34.760531777822
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "平成３０年度［第３０-Ｋ２６６３-０１号］二級河川小薮川総合流域防災事業（広域一般）（防災・安全交付金）工事（河道掘削工）【11-01】, 壬生産業（株）"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30K2663011101/30K2663011101-1.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30K2663011101/30K2663011101-2.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30K2663011101/30K2663011101-3.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30K2663011101/30K2663011101-4.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30K2663011101/30K2663011101-5.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30K2663011101/30K2663011101-6.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30K2663011101/30K2663011101-7.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30K2663011101/30K2663011101-8.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30K2663011101/30K2663011101-9.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "163MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

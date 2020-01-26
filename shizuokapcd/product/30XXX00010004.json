@@ -1,0 +1,86 @@
+{
+  "productNo": {
+    "value": "30-XXX00-01-00-04"
+  },
+  "name": {
+    "value": "（国）152号周辺航空レーザ測量業務（浜松市発注）　４／６３ （０８ＭＣ８５３Ｅ)"
+  },
+  "contractorName": {
+    "value": "中日本航空株式会社"
+  },
+  "constructionPeriod": {
+    "value": "平成29年12月13日 ～ 平成30年3月16日"
+  },
+  "registeredDate": {
+    "value": "2018-04-11"
+  },
+  "measuredDate": {
+    "value": "2017-12-21"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-30XXX00010004",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            137.87665457524,
+            35.219600831153
+          ],
+          [
+            137.87661321793,
+            35.225009062911
+          ],
+          [
+            137.88481138391,
+            35.225051003519
+          ],
+          [
+            137.88485219742,
+            35.219642763409
+          ],
+          [
+            137.87665457524,
+            35.219600831153
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "（国）152号周辺航空レーザ測量業務（浜松市発注）　４／６３ （０８ＭＣ８５３Ｅ), 中日本航空株式会社"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30XXX00010004/30XXX00010004-1.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30XXX00010004/30XXX00010004-2.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30XXX00010004/30XXX00010004-3.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30XXX00010004/30XXX00010004-4.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30XXX00010004/30XXX00010004-5.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30XXX00010004/30XXX00010004-6.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "165MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "productNo": {
+    "value": "28-W0608-01-11-01"
+  },
+  "name": {
+    "value": "平成２８年度［第２８‐Ｗ０６０８‐０１号］焼津漁港水産技術研究所等整備事業費用地整備工事"
+  },
+  "contractorName": {
+    "value": "新井工業株式会社"
+  },
+  "constructionPeriod": {
+    "value": "平成28年7月20日 ～ 平成28年9月30日"
+  },
+  "registeredDate": {
+    "value": "2017-03-27"
+  },
+  "measuredDate": {
+    "value": ""
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-28W0608011101",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            138.32445462813,
+            34.858794590489
+          ],
+          [
+            138.32445103261,
+            34.860486958075
+          ],
+          [
+            138.32534982175,
+            34.860488252175
+          ],
+          [
+            138.32535339886,
+            34.858795884508
+          ],
+          [
+            138.32445462813,
+            34.858794590489
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "平成２８年度［第２８‐Ｗ０６０８‐０１号］焼津漁港水産技術研究所等整備事業費用地整備工事, 新井工業株式会社"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/28W0608011101/28W0608011101-1.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "167MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

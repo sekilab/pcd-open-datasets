@@ -1,0 +1,78 @@
+{
+  "productNo": {
+    "value": "30-K2450-01-11-02"
+  },
+  "name": {
+    "value": "平成３０年度［第３０-Ｋ２４５０-０１号］二級河川巴川（麻機遊水地）総合治水対策特定河川事業（防災・安全交付金）工事（立石エリア掘削築堤工その３　ICT導入型）"
+  },
+  "contractorName": {
+    "value": "（株）アースシフト"
+  },
+  "constructionPeriod": {
+    "value": "平成31年2月26日 ～ 平成31年9月30日"
+  },
+  "registeredDate": {
+    "value": "2019-10-07"
+  },
+  "measuredDate": {
+    "value": "2019-08-31"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-30K2450011102",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            138.39850294916,
+            35.009688304604
+          ],
+          [
+            138.39850088819,
+            35.011356692363
+          ],
+          [
+            138.40074682564,
+            35.011358549669
+          ],
+          [
+            138.400748841,
+            35.009690161796
+          ],
+          [
+            138.39850294916,
+            35.009688304604
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "平成３０年度［第３０-Ｋ２４５０-０１号］二級河川巴川（麻機遊水地）総合治水対策特定河川事業（防災・安全交付金）工事（立石エリア掘削築堤工その３　ICT導入型）, （株）アースシフト"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30K2450011102/30K2450011102-1.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30K2450011102/30K2450011102-2.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "188MB",
+      "140MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

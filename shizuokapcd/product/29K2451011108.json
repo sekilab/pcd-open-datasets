@@ -1,0 +1,76 @@
+{
+  "productNo": {
+    "value": "29-K2451-01-11-08"
+  },
+  "name": {
+    "value": "平成３０年度［第２９-Ｋ２４５１-０１号］二級河川巴川（麻機遊水地）総合治水対策特定河川事業（防災・安全交付金）工事（安東川エリア掘削築堤工　ICT導入型）"
+  },
+  "contractorName": {
+    "value": "（株）白鳥建設"
+  },
+  "constructionPeriod": {
+    "value": "平成30年9月15日 ～ 平成31年3月15日"
+  },
+  "registeredDate": {
+    "value": "2019-03-18"
+  },
+  "measuredDate": {
+    "value": "2019-03-12"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-29K2451011108",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            138.49989322152,
+            35.999002772384
+          ],
+          [
+            138.49989322151,
+            35.999012519302
+          ],
+          [
+            138.49990634435,
+            35.999012519313
+          ],
+          [
+            138.49990634436,
+            35.999002772395
+          ],
+          [
+            138.49989322152,
+            35.999002772384
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "平成３０年度［第２９-Ｋ２４５１-０１号］二級河川巴川（麻機遊水地）総合治水対策特定河川事業（防災・安全交付金）工事（安東川エリア掘削築堤工　ICT導入型）, （株）白鳥建設"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/29K2451011108/29K2451011108-1.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "150MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

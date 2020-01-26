@@ -1,0 +1,82 @@
+{
+  "productNo": {
+    "value": "30-I8399-01-72-00"
+  },
+  "name": {
+    "value": "平成30年度路面変状調査((一)403号線 磐田掛川線(下り)_枝線1)"
+  },
+  "contractorName": {
+    "value": "ニチレキ(株)静岡支店"
+  },
+  "constructionPeriod": {
+    "value": ""
+  },
+  "registeredDate": {
+    "value": "2019-10-15"
+  },
+  "measuredDate": {
+    "value": "2019-03-31"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-30I8399017200",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            137.86008350225,
+            34.709251780694
+          ],
+          [
+            137.86007649816,
+            34.710161209933
+          ],
+          [
+            137.86391865079,
+            34.710181328508
+          ],
+          [
+            137.86392561283,
+            34.709271898591
+          ],
+          [
+            137.86008350225,
+            34.709251780694
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "平成30年度路面変状調査((一)403号線 磐田掛川線(下り)_枝線1), ニチレキ(株)静岡支店"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30I8399017200/30I8399017200-1.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30I8399017200/30I8399017200-2.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30I8399017200/30I8399017200-3.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30I8399017200/30I8399017200-4.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "200MB",
+      "200MB",
+      "200MB",
+      "14MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

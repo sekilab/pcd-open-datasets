@@ -1,0 +1,76 @@
+{
+  "productNo": {
+    "value": "30-K2651-01-11-01"
+  },
+  "name": {
+    "value": "平成３０年度［第３０-Ｋ２６５１-０１号］二級河川朝比奈川総合流域防災事業（広域一般）（防災・安全交付金）工事（河床掘削工・横内工区）"
+  },
+  "contractorName": {
+    "value": "フジ建設（株）"
+  },
+  "constructionPeriod": {
+    "value": "平成31年3月29日 ～ 平成31年7月31日"
+  },
+  "registeredDate": {
+    "value": "2020-01-08"
+  },
+  "measuredDate": {
+    "value": "2019-07-29"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-30K2651011101",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            137.14011201367,
+            35.820272986495
+          ],
+          [
+            137.14006028579,
+            35.823305174901
+          ],
+          [
+            137.14399917605,
+            35.823349683152
+          ],
+          [
+            137.14405075422,
+            35.820317489813
+          ],
+          [
+            137.14011201367,
+            35.820272986495
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "平成３０年度［第３０-Ｋ２６５１-０１号］二級河川朝比奈川総合流域防災事業（広域一般）（防災・安全交付金）工事（河床掘削工・横内工区）, フジ建設（株）"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30K2651011101/30K2651011101-1.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "1MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

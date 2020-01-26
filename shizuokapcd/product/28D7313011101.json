@@ -1,0 +1,76 @@
+{
+  "productNo": {
+    "value": "28-D7313-01-11-01"
+  },
+  "name": {
+    "value": "平成２８年度［第２８-Ｄ７３１３-０１号］（一）静浦港韮山停車場線防災・安全交付金（県道橋梁耐震対策）工事（長塚橋橋脚補強工）"
+  },
+  "contractorName": {
+    "value": "（株）正治組"
+  },
+  "constructionPeriod": {
+    "value": "平成28年9月3日 ～ 平成29年6月30日"
+  },
+  "registeredDate": {
+    "value": "2018-02-15"
+  },
+  "measuredDate": {
+    "value": "2017-04-01"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-28D7313011101",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            137.32085388237,
+            36.331276930222
+          ],
+          [
+            137.32074168607,
+            36.338720056465
+          ],
+          [
+            137.32634552314,
+            36.338775226944
+          ],
+          [
+            137.32645718658,
+            36.331332085778
+          ],
+          [
+            137.32085388237,
+            36.331276930222
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "平成２８年度［第２８-Ｄ７３１３-０１号］（一）静浦港韮山停車場線防災・安全交付金（県道橋梁耐震対策）工事（長塚橋橋脚補強工）, （株）正治組"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/28D7313011101/28D7313011101-1.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "153MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

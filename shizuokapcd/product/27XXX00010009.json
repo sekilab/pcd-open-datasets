@@ -1,0 +1,102 @@
+{
+  "productNo": {
+    "value": "27-XXX00-01-00-09"
+  },
+  "name": {
+    "value": "平成２７年度市単独道路防災事業道路現況調査業務（浜松市発注）（S4_国道362号線_8）"
+  },
+  "contractorName": {
+    "value": "（株）フジヤマ"
+  },
+  "constructionPeriod": {
+    "value": ""
+  },
+  "registeredDate": {
+    "value": "2018-10-29"
+  },
+  "measuredDate": {
+    "value": "2016-01-19"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-27XXX00010009",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            137.97759666005,
+            35.026287506034
+          ],
+          [
+            137.97746167394,
+            35.047494227491
+          ],
+          [
+            138.03077189208,
+            35.047712125523
+          ],
+          [
+            138.03089310799,
+            35.026505233578
+          ],
+          [
+            137.97759666005,
+            35.026287506034
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "平成２７年度市単独道路防災事業道路現況調査業務（浜松市発注）（S4_国道362号線_8）, （株）フジヤマ"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/27XXX00010009/27XXX00010009-1.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/27XXX00010009/27XXX00010009-2.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/27XXX00010009/27XXX00010009-3.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/27XXX00010009/27XXX00010009-4.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/27XXX00010009/27XXX00010009-5.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/27XXX00010009/27XXX00010009-6.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/27XXX00010009/27XXX00010009-7.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/27XXX00010009/27XXX00010009-8.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/27XXX00010009/27XXX00010009-9.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/27XXX00010009/27XXX00010009-10.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/27XXX00010009/27XXX00010009-11.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/27XXX00010009/27XXX00010009-12.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/27XXX00010009/27XXX00010009-13.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/27XXX00010009/27XXX00010009-14.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "58MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

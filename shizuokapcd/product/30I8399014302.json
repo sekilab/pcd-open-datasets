@@ -1,0 +1,82 @@
+{
+  "productNo": {
+    "value": "30-I8399-01-43-02"
+  },
+  "name": {
+    "value": "平成30年度路面変状調査((一)273号線_山梨敷地停車場線(1-5kp橋架け替え手前))"
+  },
+  "contractorName": {
+    "value": "ニチレキ(株)静岡支店"
+  },
+  "constructionPeriod": {
+    "value": ""
+  },
+  "registeredDate": {
+    "value": "2019-10-15"
+  },
+  "measuredDate": {
+    "value": "2019-03-31"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-30I8399014302",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            137.9025967778,
+            34.78682673612
+          ],
+          [
+            137.90257832564,
+            34.789385590944
+          ],
+          [
+            137.90447068963,
+            34.789394864377
+          ],
+          [
+            137.90448908335,
+            34.786836008675
+          ],
+          [
+            137.9025967778,
+            34.78682673612
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "平成30年度路面変状調査((一)273号線_山梨敷地停車場線(1-5kp橋架け替え手前)), ニチレキ(株)静岡支店"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30I8399014302/30I8399014302-1.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30I8399014302/30I8399014302-2.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30I8399014302/30I8399014302-3.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30I8399014302/30I8399014302-4.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "200MB",
+      "200MB",
+      "200MB",
+      "3MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

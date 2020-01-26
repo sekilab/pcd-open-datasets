@@ -1,0 +1,82 @@
+{
+  "productNo": {
+    "value": "30-I8399-01-67-01"
+  },
+  "name": {
+    "value": "平成30年度路面変状調査((一)386号線_小笠掛川線(4-5kp))"
+  },
+  "contractorName": {
+    "value": "ニチレキ(株)静岡支店"
+  },
+  "constructionPeriod": {
+    "value": ""
+  },
+  "registeredDate": {
+    "value": "2019-10-15"
+  },
+  "measuredDate": {
+    "value": "2019-03-31"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-30I8399016701",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            138.0595193788,
+            34.738244611898
+          ],
+          [
+            138.05950095415,
+            34.741716169522
+          ],
+          [
+            138.06473502139,
+            34.741734987152
+          ],
+          [
+            138.06475322713,
+            34.738263427107
+          ],
+          [
+            138.0595193788,
+            34.738244611898
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "平成30年度路面変状調査((一)386号線_小笠掛川線(4-5kp)), ニチレキ(株)静岡支店"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30I8399016701/30I8399016701-1.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30I8399016701/30I8399016701-2.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30I8399016701/30I8399016701-3.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30I8399016701/30I8399016701-4.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "200MB",
+      "200MB",
+      "200MB",
+      "31MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

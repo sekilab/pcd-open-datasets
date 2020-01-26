@@ -1,0 +1,76 @@
+{
+  "productNo": {
+    "value": "29-XXX00-01-00-01"
+  },
+  "name": {
+    "value": "平成２９年度建設工事技術管理事業UAV計測及び活用に係る説明資料作成業務（浜松市発注）（浜松城_1）"
+  },
+  "contractorName": {
+    "value": "（株）フジヤマ"
+  },
+  "constructionPeriod": {
+    "value": ""
+  },
+  "registeredDate": {
+    "value": "2018-10-29"
+  },
+  "measuredDate": {
+    "value": ""
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-29XXX00010001",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            137.72485144997,
+            34.711619481194
+          ],
+          [
+            137.72484672487,
+            34.712125917088
+          ],
+          [
+            137.72524247251,
+            34.712128434272
+          ],
+          [
+            137.7252471952,
+            34.711621998331
+          ],
+          [
+            137.72485144997,
+            34.711619481194
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "平成２９年度建設工事技術管理事業UAV計測及び活用に係る説明資料作成業務（浜松市発注）（浜松城_1）, （株）フジヤマ"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/29XXX00010001/29XXX00010001-1.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "86MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

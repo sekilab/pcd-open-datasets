@@ -1,0 +1,76 @@
+{
+  "productNo": {
+    "value": "30-XXX05-01-00-01"
+  },
+  "name": {
+    "value": "平成３０年度　内陸フロンティア推進区域整備事業　アクセス道路１号線舗装工事"
+  },
+  "contractorName": {
+    "value": "（株）エコワーク"
+  },
+  "constructionPeriod": {
+    "value": "平成30年9月27日 ～ 平成31年3月13日"
+  },
+  "registeredDate": {
+    "value": "2019-09-11"
+  },
+  "measuredDate": {
+    "value": ""
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-30XXX05010001",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            138.11856457225,
+            34.857145650974
+          ],
+          [
+            138.11855808144,
+            34.858551780242
+          ],
+          [
+            138.11999116395,
+            34.858556266689
+          ],
+          [
+            138.11999763038,
+            34.857150137187
+          ],
+          [
+            138.11856457225,
+            34.857145650974
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "平成３０年度　内陸フロンティア推進区域整備事業　アクセス道路１号線舗装工事, （株）エコワーク"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30XXX05010001/30XXX05010001-1.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "48MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

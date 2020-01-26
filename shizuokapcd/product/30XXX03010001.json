@@ -1,0 +1,122 @@
+{
+  "productNo": {
+    "value": "30-XXX03-01-00-01"
+  },
+  "name": {
+    "value": "掛川城オープンデータ化プロジェクト"
+  },
+  "contractorName": {
+    "value": "株式会社藤本組、株式会社長尾機設、やんちゃな土木ネットワーク"
+  },
+  "constructionPeriod": {
+    "value": ""
+  },
+  "registeredDate": {
+    "value": "2019-03-18"
+  },
+  "measuredDate": {
+    "value": "2019-02-25"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-30XXX03010001",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            138.01350225949,
+            34.774434125474
+          ],
+          [
+            138.01349281788,
+            34.776042725432
+          ],
+          [
+            138.01516603357,
+            34.776049400519
+          ],
+          [
+            138.01517544272,
+            34.774440800163
+          ],
+          [
+            138.01350225949,
+            34.774434125474
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "掛川城オープンデータ化プロジェクト, 株式会社藤本組、株式会社長尾機設、やんちゃな土木ネットワーク"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30XXX03010001/30XXX03010001-1.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30XXX03010001/30XXX03010001-2.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30XXX03010001/30XXX03010001-3.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30XXX03010001/30XXX03010001-4.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30XXX03010001/30XXX03010001-5.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30XXX03010001/30XXX03010001-6.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30XXX03010001/30XXX03010001-7.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30XXX03010001/30XXX03010001-8.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30XXX03010001/30XXX03010001-9.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30XXX03010001/30XXX03010001-10.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30XXX03010001/30XXX03010001-11.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30XXX03010001/30XXX03010001-12.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30XXX03010001/30XXX03010001-13.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30XXX03010001/30XXX03010001-14.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30XXX03010001/30XXX03010001-15.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30XXX03010001/30XXX03010001-16.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30XXX03010001/30XXX03010001-17.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30XXX03010001/30XXX03010001-18.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30XXX03010001/30XXX03010001-19.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30XXX03010001/30XXX03010001-20.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30XXX03010001/30XXX03010001-21.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30XXX03010001/30XXX03010001-22.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30XXX03010001/30XXX03010001-23.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30XXX03010001/30XXX03010001-24.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "170MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

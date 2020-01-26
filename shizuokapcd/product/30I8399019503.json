@@ -1,0 +1,82 @@
+{
+  "productNo": {
+    "value": "30-I8399-01-95-03"
+  },
+  "name": {
+    "value": "平成30年度路面変状調査((一)332号線_新所原停車場白須賀線)"
+  },
+  "contractorName": {
+    "value": "ニチレキ(株)静岡支店"
+  },
+  "constructionPeriod": {
+    "value": ""
+  },
+  "registeredDate": {
+    "value": "2019-10-15"
+  },
+  "measuredDate": {
+    "value": "2019-03-31"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-30I8399019503",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            137.49810647729,
+            34.710333587052
+          ],
+          [
+            137.49806205222,
+            34.714017194884
+          ],
+          [
+            137.49984900665,
+            34.714031877903
+          ],
+          [
+            137.49989335253,
+            34.710348268066
+          ],
+          [
+            137.49810647729,
+            34.710333587052
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "平成30年度路面変状調査((一)332号線_新所原停車場白須賀線), ニチレキ(株)静岡支店"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30I8399019503/30I8399019503-1.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30I8399019503/30I8399019503-2.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30I8399019503/30I8399019503-3.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30I8399019503/30I8399019503-4.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "200MB",
+      "200MB",
+      "200MB",
+      "24MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

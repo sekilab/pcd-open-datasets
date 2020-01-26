@@ -1,0 +1,80 @@
+{
+  "productNo": {
+    "value": "30-D7318-01-11-01"
+  },
+  "name": {
+    "value": "平成３０年度［第３０-Ｄ７３１８-０１号］（国）１５０号防災・安全交付金（橋梁耐震対策）工事（掛塚橋橋脚補強工）【11-01】"
+  },
+  "contractorName": {
+    "value": "（株）イトー"
+  },
+  "constructionPeriod": {
+    "value": "平成30年8月24日 ～ 平成31年6月28日"
+  },
+  "registeredDate": {
+    "value": "2019-07-05"
+  },
+  "measuredDate": {
+    "value": "2019-03-10"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-30D7318011101",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            137.79147029553,
+            34.671821542508
+          ],
+          [
+            137.79141639756,
+            34.678150041469
+          ],
+          [
+            137.7982600226,
+            34.678189632639
+          ],
+          [
+            137.79831340012,
+            34.671861124387
+          ],
+          [
+            137.79147029553,
+            34.671821542508
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "平成３０年度［第３０-Ｄ７３１８-０１号］（国）１５０号防災・安全交付金（橋梁耐震対策）工事（掛塚橋橋脚補強工）【11-01】, （株）イトー"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30D7318011101/30D7318011101-1.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30D7318011101/30D7318011101-2.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30D7318011101/30D7318011101-3.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "200MB",
+      "200MB",
+      "19MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

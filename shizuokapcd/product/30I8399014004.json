@@ -1,0 +1,82 @@
+{
+  "productNo": {
+    "value": "30-I8399-01-40-04"
+  },
+  "name": {
+    "value": "平成30年度路面変状調査((一)270号線_方の橋菌ヶ谷線)"
+  },
+  "contractorName": {
+    "value": "ニチレキ(株)静岡支店"
+  },
+  "constructionPeriod": {
+    "value": ""
+  },
+  "registeredDate": {
+    "value": "2019-10-15"
+  },
+  "measuredDate": {
+    "value": "2019-03-31"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-30I8399014004",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            138.02960879163,
+            34.798107117877
+          ],
+          [
+            138.02959634873,
+            34.80029767919
+          ],
+          [
+            138.03544930734,
+            34.800320161145
+          ],
+          [
+            138.03546159543,
+            34.798129598009
+          ],
+          [
+            138.02960879163,
+            34.798107117877
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "平成30年度路面変状調査((一)270号線_方の橋菌ヶ谷線), ニチレキ(株)静岡支店"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30I8399014004/30I8399014004-1.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30I8399014004/30I8399014004-2.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30I8399014004/30I8399014004-3.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30I8399014004/30I8399014004-4.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "200MB",
+      "200MB",
+      "200MB",
+      "16MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "productNo": {
+    "value": "30-K3050-01-11-01"
+  },
+  "name": {
+    "value": "平成３０年度［第３０-Ｋ３０５０-０１号］二級河川瀬戸川河川改良工事（護岸工）"
+  },
+  "contractorName": {
+    "value": "（株）原川土木"
+  },
+  "constructionPeriod": {
+    "value": "平成30年9月13日 ～ 平成31年2月22日"
+  },
+  "registeredDate": {
+    "value": "2019-05-08"
+  },
+  "measuredDate": {
+    "value": "2019-03-10"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-30K3050011101",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            145.34338823187,
+            70.582043088959
+          ],
+          [
+            145.34384099727,
+            70.583373888649
+          ],
+          [
+            145.34803256853,
+            70.583215996132
+          ],
+          [
+            145.34757953112,
+            70.581885208107
+          ],
+          [
+            145.34338823187,
+            70.582043088959
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "平成３０年度［第３０-Ｋ３０５０-０１号］二級河川瀬戸川河川改良工事（護岸工）, （株）原川土木"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30K3050011101/30K3050011101-1.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "4MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

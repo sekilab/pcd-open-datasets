@@ -1,0 +1,78 @@
+{
+  "productNo": {
+    "value": "29-K3485-01-11-01"
+  },
+  "name": {
+    "value": "平成２９年度［第２９-Ｋ３４８５-０１号］一級河川気田川豪雨災害等緊急対策事業（局地豪雨等災害対策）工事（河床掘削工）"
+  },
+  "contractorName": {
+    "value": "（株）渡辺兄弟工業"
+  },
+  "constructionPeriod": {
+    "value": "平成29年12月1日 ～ 平成30年3月15日"
+  },
+  "registeredDate": {
+    "value": "2018-05-07"
+  },
+  "measuredDate": {
+    "value": "2018-03-30"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-29K3485011101",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            137.89927929388,
+            34.998774578616
+          ],
+          [
+            137.89927323321,
+            34.999603852675
+          ],
+          [
+            137.90139266227,
+            34.999614322411
+          ],
+          [
+            137.90139870156,
+            34.99878504803
+          ],
+          [
+            137.89927929388,
+            34.998774578616
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "平成２９年度［第２９-Ｋ３４８５-０１号］一級河川気田川豪雨災害等緊急対策事業（局地豪雨等災害対策）工事（河床掘削工）, （株）渡辺兄弟工業"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/29K3485011101/29K3485011101-1.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/29K3485011101/29K3485011101-2.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "200MB",
+      "25MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

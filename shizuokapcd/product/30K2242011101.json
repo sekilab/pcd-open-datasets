@@ -1,0 +1,86 @@
+{
+  "productNo": {
+    "value": "30-K2242-01-11-01"
+  },
+  "name": {
+    "value": "平成３０年度［第３０-Ｋ２２４２-０１号］一級河川一雲済川総合流域防災事業（統合河川）（防災・安全交付金）工事（掘削工ＩＣＴ導入型）【11-01】"
+  },
+  "contractorName": {
+    "value": "（株）アキヤマ"
+  },
+  "constructionPeriod": {
+    "value": "平成30年9月15日 ～ 平成31年3月15日"
+  },
+  "registeredDate": {
+    "value": "2019-03-03"
+  },
+  "measuredDate": {
+    "value": "2019-02-27"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-30K2242011101",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            137.83824511853,
+            34.795191279755
+          ],
+          [
+            137.83820502324,
+            34.800208884782
+          ],
+          [
+            137.84256657513,
+            34.800232524288
+          ],
+          [
+            137.84260640622,
+            34.795214914869
+          ],
+          [
+            137.83824511853,
+            34.795191279755
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "平成３０年度［第３０-Ｋ２２４２-０１号］一級河川一雲済川総合流域防災事業（統合河川）（防災・安全交付金）工事（掘削工ＩＣＴ導入型）【11-01】, （株）アキヤマ"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30K2242011101/30K2242011101-1.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30K2242011101/30K2242011101-2.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30K2242011101/30K2242011101-3.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30K2242011101/30K2242011101-4.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30K2242011101/30K2242011101-5.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30K2242011101/30K2242011101-6.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "64MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "productNo": {
+    "value": "29-K2461-01-11-02"
+  },
+  "name": {
+    "value": "平成３０年度［第２９-Ｋ２４６１-０１号］一級河川安間川流域治水対策河川事業（防災・安全交付金）工事〔掘削工その７〕"
+  },
+  "contractorName": {
+    "value": "（株）水野組"
+  },
+  "constructionPeriod": {
+    "value": "平成30年8月3日 ～ 平成31年1月31日"
+  },
+  "registeredDate": {
+    "value": "2019-02-07"
+  },
+  "measuredDate": {
+    "value": "2018-11-08"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-29K2461011102",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            137.77858566894,
+            34.744430791877
+          ],
+          [
+            137.77856918278,
+            34.746327012383
+          ],
+          [
+            137.78143458887,
+            34.746343952894
+          ],
+          [
+            137.78145100957,
+            34.744447731198
+          ],
+          [
+            137.77858566894,
+            34.744430791877
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "平成３０年度［第２９-Ｋ２４６１-０１号］一級河川安間川流域治水対策河川事業（防災・安全交付金）工事〔掘削工その７〕, （株）水野組"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/29K2461011102/29K2461011102-1.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/29K2461011102/29K2461011102-2.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "200MB",
+      "163MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

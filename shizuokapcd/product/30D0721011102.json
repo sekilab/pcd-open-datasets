@@ -1,0 +1,76 @@
+{
+  "productNo": {
+    "value": "30-D0721-01-11-02"
+  },
+  "name": {
+    "value": "平成３０年度［第３０-Ｄ０７２１-０１号］（一）磐田掛川線社会資本整備総合交付金（県道道路改築・一般）工事（舗装工）【11-02】"
+  },
+  "contractorName": {
+    "value": "（株）エコワーク"
+  },
+  "constructionPeriod": {
+    "value": "平成31年3月30日 ～ 平成31年7月31日"
+  },
+  "registeredDate": {
+    "value": "2019-08-20"
+  },
+  "measuredDate": {
+    "value": "2019-08-06"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-30D0721011102",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            137.99647216583,
+            34.752899952582
+          ],
+          [
+            137.99646733349,
+            34.75369606349
+          ],
+          [
+            138.00288561446,
+            34.753722433368
+          ],
+          [
+            138.00289038521,
+            34.752926321683
+          ],
+          [
+            137.99647216583,
+            34.752899952582
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "平成３０年度［第３０-Ｄ０７２１-０１号］（一）磐田掛川線社会資本整備総合交付金（県道道路改築・一般）工事（舗装工）【11-02】, （株）エコワーク"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30D0721011102/30D0721011102-1.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "94MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

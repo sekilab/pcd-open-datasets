@@ -1,0 +1,84 @@
+{
+  "productNo": {
+    "value": "27-XXX00-01-00-33"
+  },
+  "name": {
+    "value": "平成２７年度市単独道路防災事業道路現況調査業務（浜松市発注）（S6_国道362号線_4）"
+  },
+  "contractorName": {
+    "value": "（株）フジヤマ"
+  },
+  "constructionPeriod": {
+    "value": ""
+  },
+  "registeredDate": {
+    "value": "2018-10-29"
+  },
+  "measuredDate": {
+    "value": "2016-01-26"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-27XXX00010033",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            137.72165778796,
+            34.820383879826
+          ],
+          [
+            137.7214388103,
+            34.843649655086
+          ],
+          [
+            137.79884684754,
+            34.844120513001
+          ],
+          [
+            137.79904405805,
+            34.820854332503
+          ],
+          [
+            137.72165778796,
+            34.820383879826
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "平成２７年度市単独道路防災事業道路現況調査業務（浜松市発注）（S6_国道362号線_4）, （株）フジヤマ"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/27XXX00010033/27XXX00010033-1.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/27XXX00010033/27XXX00010033-2.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/27XXX00010033/27XXX00010033-3.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/27XXX00010033/27XXX00010033-4.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/27XXX00010033/27XXX00010033-5.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "173MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

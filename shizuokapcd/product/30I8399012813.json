@@ -1,0 +1,76 @@
+{
+  "productNo": {
+    "value": "30-I8399-01-28-13"
+  },
+  "name": {
+    "value": "平成30年度路面変状調査((一)255号線_中野諸井線)"
+  },
+  "contractorName": {
+    "value": "ニチレキ(株)静岡支店"
+  },
+  "constructionPeriod": {
+    "value": ""
+  },
+  "registeredDate": {
+    "value": "2019-10-15"
+  },
+  "measuredDate": {
+    "value": "2019-03-31"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-30I8399012813",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            137.91968002031,
+            34.718084140669
+          ],
+          [
+            137.91967509928,
+            34.718788494498
+          ],
+          [
+            137.92052244973,
+            34.718792527819
+          ],
+          [
+            137.92052736357,
+            34.718088173885
+          ],
+          [
+            137.91968002031,
+            34.718084140669
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "平成30年度路面変状調査((一)255号線_中野諸井線), ニチレキ(株)静岡支店"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30I8399012813/30I8399012813-1.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "106MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "productNo": {
+    "value": "29-K3481-01-11-01"
+  },
+  "name": {
+    "value": "平成２９年度［第２９-Ｋ３４８１-０１号］一級河川阿多古川豪雨災害等緊急対策事業（局地豪雨等災害対策）工事（河床掘削工）"
+  },
+  "contractorName": {
+    "value": "天龍土建工業（株）"
+  },
+  "constructionPeriod": {
+    "value": "平成29年12月22日 ～ 平成30年3月22日"
+  },
+  "registeredDate": {
+    "value": "2018-05-07"
+  },
+  "measuredDate": {
+    "value": "2018-03-01"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-29K3481011101",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            137.78752391568,
+            34.874061115193
+          ],
+          [
+            137.78750544699,
+            34.876201614484
+          ],
+          [
+            137.78920059338,
+            34.876211536625
+          ],
+          [
+            137.78921901814,
+            34.874071036548
+          ],
+          [
+            137.78752391568,
+            34.874061115193
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "平成２９年度［第２９-Ｋ３４８１-０１号］一級河川阿多古川豪雨災害等緊急対策事業（局地豪雨等災害対策）工事（河床掘削工）, 天龍土建工業（株）"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/29K3481011101/29K3481011101-1.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/29K3481011101/29K3481011101-2.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/29K3481011101/29K3481011101-3.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "200MB",
+      "200MB",
+      "15MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

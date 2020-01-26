@@ -1,0 +1,188 @@
+{
+  "productNo": {
+    "value": "24-I0163-01-13-01"
+  },
+  "name": {
+    "value": "平成２４年度［第２４-Ｉ０１６３-０１号］（国）４７３号他　道路更新防災（道路施設点検）委託（国道防災点検その１）"
+  },
+  "contractorName": {
+    "value": "昭和設計（株）"
+  },
+  "constructionPeriod": {
+    "value": ""
+  },
+  "registeredDate": {
+    "value": "2017-03-01"
+  },
+  "measuredDate": {
+    "value": ""
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-24I0163011301",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            138.07064285075,
+            34.623742888222
+          ],
+          [
+            138.06859008442,
+            35.018407036289
+          ],
+          [
+            138.19358806845,
+            35.018786985137
+          ],
+          [
+            138.19504608731,
+            34.624117327207
+          ],
+          [
+            138.07064285075,
+            34.623742888222
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "平成２４年度［第２４-Ｉ０１６３-０１号］（国）４７３号他　道路更新防災（道路施設点検）委託（国道防災点検その１）, 昭和設計（株）"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/24I0163011301/24I0163011301-1.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/24I0163011301/24I0163011301-2.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/24I0163011301/24I0163011301-3.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/24I0163011301/24I0163011301-4.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/24I0163011301/24I0163011301-5.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/24I0163011301/24I0163011301-6.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/24I0163011301/24I0163011301-7.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/24I0163011301/24I0163011301-8.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/24I0163011301/24I0163011301-9.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/24I0163011301/24I0163011301-10.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/24I0163011301/24I0163011301-11.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/24I0163011301/24I0163011301-12.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/24I0163011301/24I0163011301-13.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/24I0163011301/24I0163011301-14.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/24I0163011301/24I0163011301-15.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/24I0163011301/24I0163011301-16.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/24I0163011301/24I0163011301-17.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/24I0163011301/24I0163011301-18.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/24I0163011301/24I0163011301-19.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/24I0163011301/24I0163011301-20.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/24I0163011301/24I0163011301-21.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/24I0163011301/24I0163011301-22.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/24I0163011301/24I0163011301-23.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/24I0163011301/24I0163011301-24.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/24I0163011301/24I0163011301-25.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/24I0163011301/24I0163011301-26.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/24I0163011301/24I0163011301-27.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/24I0163011301/24I0163011301-28.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/24I0163011301/24I0163011301-29.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/24I0163011301/24I0163011301-30.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/24I0163011301/24I0163011301-31.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/24I0163011301/24I0163011301-32.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/24I0163011301/24I0163011301-33.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/24I0163011301/24I0163011301-34.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/24I0163011301/24I0163011301-35.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/24I0163011301/24I0163011301-36.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/24I0163011301/24I0163011301-37.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/24I0163011301/24I0163011301-38.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/24I0163011301/24I0163011301-39.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/24I0163011301/24I0163011301-40.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/24I0163011301/24I0163011301-41.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/24I0163011301/24I0163011301-42.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/24I0163011301/24I0163011301-43.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/24I0163011301/24I0163011301-44.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/24I0163011301/24I0163011301-45.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/24I0163011301/24I0163011301-46.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/24I0163011301/24I0163011301-47.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/24I0163011301/24I0163011301-48.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/24I0163011301/24I0163011301-49.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/24I0163011301/24I0163011301-50.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/24I0163011301/24I0163011301-51.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/24I0163011301/24I0163011301-52.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/24I0163011301/24I0163011301-53.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/24I0163011301/24I0163011301-54.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/24I0163011301/24I0163011301-55.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/24I0163011301/24I0163011301-56.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/24I0163011301/24I0163011301-57.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "200MB",
+      "200MB",
+      "200MB",
+      "12MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "14MB",
+      "200MB",
+      "122MB",
+      "200MB",
+      "135MB",
+      "112MB",
+      "121MB",
+      "42MB",
+      "80MB",
+      "73MB",
+      "67MB",
+      "33MB",
+      "61MB",
+      "52MB",
+      "61MB",
+      "36MB",
+      "53MB",
+      "94MB",
+      "37MB",
+      "45MB",
+      "46MB",
+      "57MB",
+      "48MB",
+      "188MB",
+      "195MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "55MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "20MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "181MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

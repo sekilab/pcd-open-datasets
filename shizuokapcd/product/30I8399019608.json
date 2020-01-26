@@ -1,0 +1,78 @@
+{
+  "productNo": {
+    "value": "30-I8399-01-96-08"
+  },
+  "name": {
+    "value": "平成30年度路面変状調査((一)333号線_入出太田線)"
+  },
+  "contractorName": {
+    "value": "ニチレキ(株)静岡支店"
+  },
+  "constructionPeriod": {
+    "value": ""
+  },
+  "registeredDate": {
+    "value": "2019-10-15"
+  },
+  "measuredDate": {
+    "value": "2019-03-31"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-30I8399019608",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            137.51503052015,
+            34.741103078408
+          ],
+          [
+            137.51502088674,
+            34.741914706557
+          ],
+          [
+            137.51599092035,
+            34.741922548146
+          ],
+          [
+            137.51600054429,
+            34.741110919761
+          ],
+          [
+            137.51503052015,
+            34.741103078408
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "平成30年度路面変状調査((一)333号線_入出太田線), ニチレキ(株)静岡支店"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30I8399019608/30I8399019608-1.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30I8399019608/30I8399019608-2.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "200MB",
+      "7MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

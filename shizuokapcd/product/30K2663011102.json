@@ -1,0 +1,80 @@
+{
+  "productNo": {
+    "value": "30-K2663-01-11-02"
+  },
+  "name": {
+    "value": "平成３０年度［第３０-Ｋ２６６３-０１号］二級河川小薮川総合流域防災事業（広域一般）（防災・安全交付金）工事（河道掘削工）【11-02】"
+  },
+  "contractorName": {
+    "value": "（株）遠州工務店"
+  },
+  "constructionPeriod": {
+    "value": "平成31年3月30日 ～ 平成31年8月30日"
+  },
+  "registeredDate": {
+    "value": "2019-09-25"
+  },
+  "measuredDate": {
+    "value": "2019-08-27"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-30K2663011102",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            137.88206567734,
+            34.774717279628
+          ],
+          [
+            137.8820318716,
+            34.779251350658
+          ],
+          [
+            137.88417072805,
+            34.779262189506
+          ],
+          [
+            137.88420441681,
+            34.774728116656
+          ],
+          [
+            137.88206567734,
+            34.774717279628
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "平成３０年度［第３０-Ｋ２６６３-０１号］二級河川小薮川総合流域防災事業（広域一般）（防災・安全交付金）工事（河道掘削工）【11-02】, （株）遠州工務店"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30K2663011102/30K2663011102-1.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30K2663011102/30K2663011102-2.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30K2663011102/30K2663011102-3.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "200MB",
+      "200MB",
+      "97MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

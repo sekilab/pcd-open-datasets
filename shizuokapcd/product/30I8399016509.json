@@ -1,0 +1,82 @@
+{
+  "productNo": {
+    "value": "30-I8399-01-65-09"
+  },
+  "name": {
+    "value": "平成30年度路面変状調査((一)374号線_浜北袋井線)"
+  },
+  "contractorName": {
+    "value": "ニチレキ(株)静岡支店"
+  },
+  "constructionPeriod": {
+    "value": ""
+  },
+  "registeredDate": {
+    "value": "2019-10-15"
+  },
+  "measuredDate": {
+    "value": "2019-03-31"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-30I8399016509",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            137.85671934133,
+            34.771179267417
+          ],
+          [
+            137.85671320065,
+            34.771970587764
+          ],
+          [
+            137.86103987516,
+            34.771993372504
+          ],
+          [
+            137.86104597454,
+            34.77120205149
+          ],
+          [
+            137.85671934133,
+            34.771179267417
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "平成30年度路面変状調査((一)374号線_浜北袋井線), ニチレキ(株)静岡支店"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30I8399016509/30I8399016509-1.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30I8399016509/30I8399016509-2.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30I8399016509/30I8399016509-3.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30I8399016509/30I8399016509-4.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "200MB",
+      "200MB",
+      "200MB",
+      "24MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

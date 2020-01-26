@@ -1,0 +1,84 @@
+{
+  "productNo": {
+    "value": "30-XXX00-01-00-41"
+  },
+  "name": {
+    "value": "（国）152号周辺航空レーザ測量業務（浜松市発注）　４１／６３ （０８ＭＣ９６１Ａ)"
+  },
+  "contractorName": {
+    "value": "中日本航空株式会社"
+  },
+  "constructionPeriod": {
+    "value": "平成29年12月13日 ～ 平成30年3月16日"
+  },
+  "registeredDate": {
+    "value": "2018-04-11"
+  },
+  "measuredDate": {
+    "value": "2017-12-21"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-30XXX00010041",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            137.8849746846,
+            35.203417743928
+          ],
+          [
+            137.8849339037,
+            35.208825998684
+          ],
+          [
+            137.89372001127,
+            35.208870312988
+          ],
+          [
+            137.89376020971,
+            35.203462049406
+          ],
+          [
+            137.8849746846,
+            35.203417743928
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "（国）152号周辺航空レーザ測量業務（浜松市発注）　４１／６３ （０８ＭＣ９６１Ａ), 中日本航空株式会社"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30XXX00010041/30XXX00010041-1.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30XXX00010041/30XXX00010041-2.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30XXX00010041/30XXX00010041-3.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30XXX00010041/30XXX00010041-4.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30XXX00010041/30XXX00010041-5.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "19MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

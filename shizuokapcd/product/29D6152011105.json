@@ -1,0 +1,92 @@
+{
+  "productNo": {
+    "value": "29-D6152-01-11-05"
+  },
+  "name": {
+    "value": "平成２９年度［第２９-Ｄ６１５２-０１号］（国）４７３号道路改良（地域連携２Ａ）地域高規格工事（本線道路工）"
+  },
+  "contractorName": {
+    "value": "山岸建設（株）"
+  },
+  "constructionPeriod": {
+    "value": "平成29年12月11日 ～ 平成30年8月31日"
+  },
+  "registeredDate": {
+    "value": "2019-01-22"
+  },
+  "measuredDate": {
+    "value": "2019-01-22"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-29D6152011105",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            138.12761772248,
+            34.802995226438
+          ],
+          [
+            138.12759760295,
+            34.807468459476
+          ],
+          [
+            138.13135291955,
+            34.807479893482
+          ],
+          [
+            138.1313728362,
+            34.80300665855
+          ],
+          [
+            138.12761772248,
+            34.802995226438
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "平成２９年度［第２９-Ｄ６１５２-０１号］（国）４７３号道路改良（地域連携２Ａ）地域高規格工事（本線道路工）, 山岸建設（株）"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/29D6152011105/29D6152011105-1.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/29D6152011105/29D6152011105-2.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/29D6152011105/29D6152011105-3.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/29D6152011105/29D6152011105-4.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/29D6152011105/29D6152011105-5.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/29D6152011105/29D6152011105-6.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/29D6152011105/29D6152011105-7.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/29D6152011105/29D6152011105-8.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/29D6152011105/29D6152011105-9.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "7MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

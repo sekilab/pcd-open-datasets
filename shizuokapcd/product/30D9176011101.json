@@ -1,0 +1,76 @@
+{
+  "productNo": {
+    "value": "30-D9176-01-11-01"
+  },
+  "name": {
+    "value": "平成３０年度［第３０-Ｄ９１７６-０１号］（主）豊橋湖西線県単交通安全施設整備工事（法面工）"
+  },
+  "contractorName": {
+    "value": "（株）鈴喜組"
+  },
+  "constructionPeriod": {
+    "value": "平成31年3月23日 ～ 平成31年9月30日"
+  },
+  "registeredDate": {
+    "value": "2019-09-18"
+  },
+  "measuredDate": {
+    "value": "2019-09-02"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-30D9176011101",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            137.53118967111,
+            34.71165325654
+          ],
+          [
+            137.53118040709,
+            34.712447658015
+          ],
+          [
+            137.53251126145,
+            34.71245823378
+          ],
+          [
+            137.53252051275,
+            34.711663831994
+          ],
+          [
+            137.53118967111,
+            34.71165325654
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "平成３０年度［第３０-Ｄ９１７６-０１号］（主）豊橋湖西線県単交通安全施設整備工事（法面工）, （株）鈴喜組"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30D9176011101/30D9176011101-1.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "154MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

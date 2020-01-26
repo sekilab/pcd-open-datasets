@@ -1,0 +1,84 @@
+{
+  "productNo": {
+    "value": "30-K3367-01-11-01"
+  },
+  "name": {
+    "value": "平成３０年度［第３０-Ｋ３３６７-０１号］一級河川気田川豪雨災害等緊急対策事業（局地豪雨等災害対策）工事（河床掘削工）【ＩＣＴ導入型】"
+  },
+  "contractorName": {
+    "value": "（株）渡辺兄弟工業"
+  },
+  "constructionPeriod": {
+    "value": "平成30年9月14日 ～ 平成31年2月7日"
+  },
+  "registeredDate": {
+    "value": "2019-03-06"
+  },
+  "measuredDate": {
+    "value": "2019-01-27"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-30K3367011101",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            137.92387806116,
+            35.028155748185
+          ],
+          [
+            137.92386074949,
+            35.030622827207
+          ],
+          [
+            137.92568228019,
+            35.030631461993
+          ],
+          [
+            137.92569953712,
+            35.028164382186
+          ],
+          [
+            137.92387806116,
+            35.028155748185
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "平成３０年度［第３０-Ｋ３３６７-０１号］一級河川気田川豪雨災害等緊急対策事業（局地豪雨等災害対策）工事（河床掘削工）【ＩＣＴ導入型】, （株）渡辺兄弟工業"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30K3367011101/30K3367011101-1.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30K3367011101/30K3367011101-2.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30K3367011101/30K3367011101-3.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30K3367011101/30K3367011101-4.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30K3367011101/30K3367011101-5.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "81MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

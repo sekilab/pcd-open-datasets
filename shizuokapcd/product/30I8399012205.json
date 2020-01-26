@@ -1,0 +1,80 @@
+{
+  "productNo": {
+    "value": "30-I8399-01-22-05"
+  },
+  "name": {
+    "value": "平成30年度路面変状調査((一)251号線_袋井小笠線(1-11kp))"
+  },
+  "contractorName": {
+    "value": "ニチレキ(株)静岡支店"
+  },
+  "constructionPeriod": {
+    "value": ""
+  },
+  "registeredDate": {
+    "value": "2019-10-15"
+  },
+  "measuredDate": {
+    "value": "2019-03-31"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-30I8399012205",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            137.93782301819,
+            34.73661090894
+          ],
+          [
+            137.93780817438,
+            34.73880249739
+          ],
+          [
+            137.94091710868,
+            34.738816807769
+          ],
+          [
+            137.94093187041,
+            34.736625218157
+          ],
+          [
+            137.93782301819,
+            34.73661090894
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "平成30年度路面変状調査((一)251号線_袋井小笠線(1-11kp)), ニチレキ(株)静岡支店"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30I8399012205/30I8399012205-1.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30I8399012205/30I8399012205-2.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30I8399012205/30I8399012205-3.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "200MB",
+      "200MB",
+      "193MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

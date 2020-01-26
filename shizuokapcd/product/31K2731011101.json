@@ -1,0 +1,80 @@
+{
+  "productNo": {
+    "value": "31-K2731-01-11-01"
+  },
+  "name": {
+    "value": "平成３１年度［第３１-Ｋ２７３１-０１号］二級河川馬込川広域河川改修事業（防災・安全交付金）工事（河道掘削工）"
+  },
+  "contractorName": {
+    "value": "（株）鈴木組"
+  },
+  "constructionPeriod": {
+    "value": "平成31年6月14日 ～ 平成31年11月29日"
+  },
+  "registeredDate": {
+    "value": "2019-11-18"
+  },
+  "measuredDate": {
+    "value": "2019-11-09"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-31K2731011101",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            137.7436726765,
+            34.65788020211
+          ],
+          [
+            137.74365660772,
+            34.659648811119
+          ],
+          [
+            137.74708567742,
+            34.65967003532
+          ],
+          [
+            137.74710167336,
+            34.657901424919
+          ],
+          [
+            137.7436726765,
+            34.65788020211
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "平成３１年度［第３１-Ｋ２７３１-０１号］二級河川馬込川広域河川改修事業（防災・安全交付金）工事（河道掘削工）, （株）鈴木組"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/31K2731011101/31K2731011101-1.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/31K2731011101/31K2731011101-2.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/31K2731011101/31K2731011101-3.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "200MB",
+      "200MB",
+      "164MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

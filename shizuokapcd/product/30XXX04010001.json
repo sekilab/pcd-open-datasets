@@ -1,0 +1,76 @@
+{
+  "productNo": {
+    "value": "30-XXX04-01-00-01"
+  },
+  "name": {
+    "value": "平成３０年度　蓬莱橋周辺整備事業　駐車場整備工事"
+  },
+  "contractorName": {
+    "value": "（株）エコワーク"
+  },
+  "constructionPeriod": {
+    "value": "平成31年3月13日"
+  },
+  "registeredDate": {
+    "value": "2019-03-18"
+  },
+  "measuredDate": {
+    "value": "2019-03-06"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-30XXX04010001",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            138.18529222617,
+            34.825227803939
+          ],
+          [
+            138.18529063181,
+            34.825646940803
+          ],
+          [
+            138.1865341817,
+            34.825650151124
+          ],
+          [
+            138.18653576976,
+            34.82523101421
+          ],
+          [
+            138.18529222617,
+            34.825227803939
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "平成３０年度　蓬莱橋周辺整備事業　駐車場整備工事, （株）エコワーク"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30XXX04010001/30XXX04010001-1.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "39MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "productNo": {
+    "value": "28-D0201-01-11-02"
+  },
+  "name": {
+    "value": "平成２８年度［第２８-Ｄ０２０１-０１号］（国）１３６号社会資本整備総合交付金（国道道路改築２次・広域）工事（迂回路工その１）"
+  },
+  "contractorName": {
+    "value": "（株）正治組"
+  },
+  "constructionPeriod": {
+    "value": "平成28年12月29日 ～ 平成29年11月30日"
+  },
+  "registeredDate": {
+    "value": "2018-02-15"
+  },
+  "measuredDate": {
+    "value": "2017-09-01"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-28D0201011102",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            137.32946841317,
+            36.339755000058
+          ],
+          [
+            137.32935805702,
+            36.347127665045
+          ],
+          [
+            137.3397005838,
+            36.347228546586
+          ],
+          [
+            137.3398099655,
+            36.339855854575
+          ],
+          [
+            137.32946841317,
+            36.339755000058
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "平成２８年度［第２８-Ｄ０２０１-０１号］（国）１３６号社会資本整備総合交付金（国道道路改築２次・広域）工事（迂回路工その１）, （株）正治組"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/28D0201011102/28D0201011102-1.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/28D0201011102/28D0201011102-2.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/28D0201011102/28D0201011102-3.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "200MB",
+      "200MB",
+      "167MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

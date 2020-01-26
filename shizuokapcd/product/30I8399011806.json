@@ -1,0 +1,82 @@
+{
+  "productNo": {
+    "value": "30-I8399-01-18-06"
+  },
+  "name": {
+    "value": "平成30年度路面変状調査((一)245号線_川上菊川線)"
+  },
+  "contractorName": {
+    "value": "ニチレキ(株)静岡支店"
+  },
+  "constructionPeriod": {
+    "value": ""
+  },
+  "registeredDate": {
+    "value": "2019-10-15"
+  },
+  "measuredDate": {
+    "value": "2019-03-31"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-30I8399011806",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            138.09678357843,
+            34.724715061422
+          ],
+          [
+            138.09676089338,
+            34.729386618792
+          ],
+          [
+            138.10227504239,
+            34.729404747182
+          ],
+          [
+            138.10229741726,
+            34.724733186674
+          ],
+          [
+            138.09678357843,
+            34.724715061422
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "平成30年度路面変状調査((一)245号線_川上菊川線), ニチレキ(株)静岡支店"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30I8399011806/30I8399011806-1.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30I8399011806/30I8399011806-2.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30I8399011806/30I8399011806-3.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30I8399011806/30I8399011806-4.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "200MB",
+      "200MB",
+      "200MB",
+      "48MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "productNo": {
+    "value": "30-XXX00-01-00-53"
+  },
+  "name": {
+    "value": "（国）152号周辺航空レーザ測量業務（浜松市発注）　５３／６３ （０８ＮＣ０５０Ｄ)"
+  },
+  "contractorName": {
+    "value": "中日本航空株式会社"
+  },
+  "constructionPeriod": {
+    "value": "平成29年12月13日 ～ 平成30年3月16日"
+  },
+  "registeredDate": {
+    "value": "2018-04-11"
+  },
+  "measuredDate": {
+    "value": "2017-12-21"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-30XXX00010053",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            137.86757114731,
+            35.181693863423
+          ],
+          [
+            137.86752924617,
+            35.187102119679
+          ],
+          [
+            137.87631298592,
+            35.187147672684
+          ],
+          [
+            137.87635430524,
+            35.181739407353
+          ],
+          [
+            137.86757114731,
+            35.181693863423
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "（国）152号周辺航空レーザ測量業務（浜松市発注）　５３／６３ （０８ＮＣ０５０Ｄ), 中日本航空株式会社"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30XXX00010053/30XXX00010053-1.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30XXX00010053/30XXX00010053-2.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30XXX00010053/30XXX00010053-3.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30XXX00010053/30XXX00010053-4.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30XXX00010053/30XXX00010053-5.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "86MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

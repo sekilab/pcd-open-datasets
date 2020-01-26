@@ -1,0 +1,80 @@
+{
+  "productNo": {
+    "value": "30-I8399-01-11-00"
+  },
+  "name": {
+    "value": "平成30年度路面変状調査((一)239号線_相良浜岡線)"
+  },
+  "contractorName": {
+    "value": "ニチレキ(株)静岡支店"
+  },
+  "constructionPeriod": {
+    "value": ""
+  },
+  "registeredDate": {
+    "value": "2019-10-15"
+  },
+  "measuredDate": {
+    "value": "2019-03-31"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-30I8399011100",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            138.18175673279,
+            34.659120126008
+          ],
+          [
+            138.18175253279,
+            34.660218769438
+          ],
+          [
+            138.18422569994,
+            34.660225199743
+          ],
+          [
+            138.1842298673,
+            34.659126556052
+          ],
+          [
+            138.18175673279,
+            34.659120126008
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "平成30年度路面変状調査((一)239号線_相良浜岡線), ニチレキ(株)静岡支店"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30I8399011100/30I8399011100-1.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30I8399011100/30I8399011100-2.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30I8399011100/30I8399011100-3.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "200MB",
+      "200MB",
+      "186MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

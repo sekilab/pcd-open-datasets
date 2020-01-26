@@ -1,0 +1,82 @@
+{
+  "productNo": {
+    "value": "30-D0230-01-11-02"
+  },
+  "name": {
+    "value": "平成３０年度［第３０-Ｄ０２３０-０１号］（国）１５０号社会資本整備総合交付金（国道道路改築２次・広域）工事（道路工その２）【11-02】"
+  },
+  "contractorName": {
+    "value": "（株）堀内土木"
+  },
+  "constructionPeriod": {
+    "value": "平成30年10月6日 ～ 平成31年6月28日"
+  },
+  "registeredDate": {
+    "value": "2019-08-16"
+  },
+  "measuredDate": {
+    "value": "2019-08-10"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-30D0230011102",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            137.85820391025,
+            34.667273545356
+          ],
+          [
+            137.85818894835,
+            34.669213542861
+          ],
+          [
+            137.86177741899,
+            34.669232382368
+          ],
+          [
+            137.86179229726,
+            34.667292383508
+          ],
+          [
+            137.85820391025,
+            34.667273545356
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "平成３０年度［第３０-Ｄ０２３０-０１号］（国）１５０号社会資本整備総合交付金（国道道路改築２次・広域）工事（道路工その２）【11-02】, （株）堀内土木"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30D0230011102/30D0230011102-1.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30D0230011102/30D0230011102-2.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30D0230011102/30D0230011102-3.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30D0230011102/30D0230011102-4.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "200MB",
+      "200MB",
+      "200MB",
+      "85MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}
