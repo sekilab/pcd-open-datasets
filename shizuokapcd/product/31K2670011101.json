@@ -1,0 +1,84 @@
+{
+  "productNo": {
+    "value": "31-K2670-01-11-01"
+  },
+  "name": {
+    "value": "令和元年度［第３１-Ｋ２６７０-０１号］一級河川気田川総合流域防災事業（広域系）（防災・安全交付金）工事（河床掘削工・豊岡工区）【ＩＣＴ導入型】"
+  },
+  "contractorName": {
+    "value": "小林建設（株）"
+  },
+  "constructionPeriod": {
+    "value": "令和1年10月17日 ～ 令和2年3月19日"
+  },
+  "registeredDate": {
+    "value": "2020-03-17"
+  },
+  "measuredDate": {
+    "value": "2020-03-09"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-31K2670011101",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            137.91817134262,
+            35.023159274619
+          ],
+          [
+            137.91815553419,
+            35.025390459748
+          ],
+          [
+            137.92263741163,
+            35.025411865844
+          ],
+          [
+            137.92265309831,
+            35.023180678951
+          ],
+          [
+            137.91817134262,
+            35.023159274619
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "令和元年度［第３１-Ｋ２６７０-０１号］一級河川気田川総合流域防災事業（広域系）（防災・安全交付金）工事（河床掘削工・豊岡工区）【ＩＣＴ導入型】, 小林建設（株）"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/31K2670011101/31K2670011101-1.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/31K2670011101/31K2670011101-2.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/31K2670011101/31K2670011101-3.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/31K2670011101/31K2670011101-4.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/31K2670011101/31K2670011101-5.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "11MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "productNo": {
+    "value": "31-T2136-02-11-04"
+  },
+  "name": {
+    "value": "平成31年度治山（防災林造成）中新田１工事"
+  },
+  "contractorName": {
+    "value": "塚本建設（株）"
+  },
+  "constructionPeriod": {
+    "value": "令和1年6月11日 ～ 令和2年2月28日"
+  },
+  "registeredDate": {
+    "value": "2020-02-26"
+  },
+  "measuredDate": {
+    "value": "2020-02-26"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-31T2136021104",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            137.95885677861,
+            34.66727125672
+          ],
+          [
+            137.95884674624,
+            34.668814065567
+          ],
+          [
+            137.96104409752,
+            34.668823799724
+          ],
+          [
+            137.96105408916,
+            34.66728099032
+          ],
+          [
+            137.95885677861,
+            34.66727125672
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "平成31年度治山（防災林造成）中新田１工事, 塚本建設（株）"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/31T2136021104/31T2136021104-1.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/31T2136021104/31T2136021104-2.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/31T2136021104/31T2136021104-3.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/31T2136021104/31T2136021104-4.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "200MB",
+      "200MB",
+      "200MB",
+      "128MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

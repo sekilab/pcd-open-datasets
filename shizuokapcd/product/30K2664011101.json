@@ -1,0 +1,76 @@
+{
+  "productNo": {
+    "value": "30-K2664-01-11-01"
+  },
+  "name": {
+    "value": "平成３０年度［第３０-Ｋ２６６４-０１号］二級河川太田川広域河川改修事業（防災・安全交付金）工事（河道掘削工第５工区）（ICT導入型）【11-01】"
+  },
+  "contractorName": {
+    "value": "（株）イトー"
+  },
+  "constructionPeriod": {
+    "value": "平成31年3月30日 ～ 令和1年8月30日"
+  },
+  "registeredDate": {
+    "value": "2020-01-27"
+  },
+  "measuredDate": {
+    "value": "2020-01-27"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-30K2664011101",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            137.89995845646,
+            34.706060485296
+          ],
+          [
+            137.8999503005,
+            34.707189985431
+          ],
+          [
+            137.90136048252,
+            34.707196921815
+          ],
+          [
+            137.90136861932,
+            34.706067421389
+          ],
+          [
+            137.89995845646,
+            34.706060485296
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "平成３０年度［第３０-Ｋ２６６４-０１号］二級河川太田川広域河川改修事業（防災・安全交付金）工事（河道掘削工第５工区）（ICT導入型）【11-01】, （株）イトー"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30K2664011101/30K2664011101-1.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "2MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

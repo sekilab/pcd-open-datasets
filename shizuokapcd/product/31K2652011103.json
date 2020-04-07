@@ -1,0 +1,76 @@
+{
+  "productNo": {
+    "value": "31-K2652-01-11-03"
+  },
+  "name": {
+    "value": "令和元年度［第３１-Ｋ２６５２-０１号］一級河川大井川総合流域防災事業（広域系）（防災・安全交付金）工事（小長井工区河床掘削工）（ICT導入型）"
+  },
+  "contractorName": {
+    "value": "（株）柳澤組"
+  },
+  "constructionPeriod": {
+    "value": "令和1年9月4日 ～ 令和2年2月28日"
+  },
+  "registeredDate": {
+    "value": "2020-02-21"
+  },
+  "measuredDate": {
+    "value": "2020-02-21"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-31K2652011103",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            138.13655487153,
+            35.102688179885
+          ],
+          [
+            138.1365497699,
+            35.103837515951
+          ],
+          [
+            138.13800317202,
+            35.103841864305
+          ],
+          [
+            138.13800825325,
+            35.102692528055
+          ],
+          [
+            138.13655487153,
+            35.102688179885
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "令和元年度［第３１-Ｋ２６５２-０１号］一級河川大井川総合流域防災事業（広域系）（防災・安全交付金）工事（小長井工区河床掘削工）（ICT導入型）, （株）柳澤組"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/31K2652011103/31K2652011103-1.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "1MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

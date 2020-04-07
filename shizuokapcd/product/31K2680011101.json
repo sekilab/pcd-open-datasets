@@ -1,0 +1,76 @@
+{
+  "productNo": {
+    "value": "31-K2680-01-11-01"
+  },
+  "name": {
+    "value": "令和元年度［第３１-Ｋ２６８０-０１号］二級河川太田川広域河川改修事業（防災・安全交付金）工事（河道掘削工第１工区）（ICT導入型）【11-01】"
+  },
+  "contractorName": {
+    "value": "石川建設（株）"
+  },
+  "constructionPeriod": {
+    "value": "令和1年10月30日 ～ 令和2年2月28日"
+  },
+  "registeredDate": {
+    "value": "2020-03-02"
+  },
+  "measuredDate": {
+    "value": "2020-03-02"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-31K2680011101",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            137.89461026621,
+            34.698331561115
+          ],
+          [
+            137.89460553786,
+            34.698980789274
+          ],
+          [
+            137.89538413639,
+            34.698984654794
+          ],
+          [
+            137.89538885866,
+            34.698335426542
+          ],
+          [
+            137.89461026621,
+            34.698331561115
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "令和元年度［第３１-Ｋ２６８０-０１号］二級河川太田川広域河川改修事業（防災・安全交付金）工事（河道掘削工第１工区）（ICT導入型）【11-01】, 石川建設（株）"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/31K2680011101/31K2680011101-1.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "7MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

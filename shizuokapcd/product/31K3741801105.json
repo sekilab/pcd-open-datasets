@@ -1,0 +1,76 @@
+{
+  "productNo": {
+    "value": "31-K3741-80-11-05"
+  },
+  "name": {
+    "value": "令和元年度［第３１-Ｋ３７４１-８０号］二級河川布沢川河川維持修繕工事（河床掘削工）"
+  },
+  "contractorName": {
+    "value": "（株）宇佐美組"
+  },
+  "constructionPeriod": {
+    "value": "令和1年12月5日 ～ 令和2年3月16日"
+  },
+  "registeredDate": {
+    "value": "2020-03-24"
+  },
+  "measuredDate": {
+    "value": "2020-03-24"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-31K3741801105",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            138.4515927854,
+            35.103376521788
+          ],
+          [
+            138.45159204727,
+            35.104625040855
+          ],
+          [
+            138.45209663941,
+            35.104625241279
+          ],
+          [
+            138.45209736985,
+            35.103376722203
+          ],
+          [
+            138.4515927854,
+            35.103376521788
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "令和元年度［第３１-Ｋ３７４１-８０号］二級河川布沢川河川維持修繕工事（河床掘削工）, （株）宇佐美組"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/31K3741801105/31K3741801105-1.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "0MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

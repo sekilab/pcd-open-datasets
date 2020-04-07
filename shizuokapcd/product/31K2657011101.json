@@ -1,0 +1,78 @@
+{
+  "productNo": {
+    "value": "31-K2657-01-11-01"
+  },
+  "name": {
+    "value": "令和元年度［第３１-Ｋ２６５７-０１号］二級河川勝間田川総合流域防災事業（広域系）（防災・安全交付金）工事（河道掘削工）"
+  },
+  "contractorName": {
+    "value": "（株）加藤組"
+  },
+  "constructionPeriod": {
+    "value": "令和1年7月29日 ～ 令和2年2月28日"
+  },
+  "registeredDate": {
+    "value": "2020-03-07"
+  },
+  "measuredDate": {
+    "value": "2020-03-06"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-31K2657011101",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            138.21534754455,
+            34.740945487038
+          ],
+          [
+            138.2153203673,
+            34.74886787197
+          ],
+          [
+            138.22113088258,
+            34.748881315702
+          ],
+          [
+            138.22115750514,
+            34.740958926825
+          ],
+          [
+            138.21534754455,
+            34.740945487038
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "令和元年度［第３１-Ｋ２６５７-０１号］二級河川勝間田川総合流域防災事業（広域系）（防災・安全交付金）工事（河道掘削工）, （株）加藤組"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/31K2657011101/31K2657011101-1.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/31K2657011101/31K2657011101-2.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "22MB",
+      "5MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

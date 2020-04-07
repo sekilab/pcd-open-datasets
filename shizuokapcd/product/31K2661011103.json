@@ -1,0 +1,76 @@
+{
+  "productNo": {
+    "value": "31-K2661-01-11-03"
+  },
+  "name": {
+    "value": "令和元年度［第３１-Ｋ２６６１-０１号］二級河川原野谷川総合流域防災事業（広域系）（防災・安全交付金）工事（河道掘削工）（その２）（ICT導入型）【11-03】"
+  },
+  "contractorName": {
+    "value": "（株）永井組"
+  },
+  "constructionPeriod": {
+    "value": "令和1年10月12日 ～ 令和2年3月1日"
+  },
+  "registeredDate": {
+    "value": "2020-02-10"
+  },
+  "measuredDate": {
+    "value": "2020-02-01"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-31K2661011103",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            136.96726267098,
+            35.516827232633
+          ],
+          [
+            136.96721222369,
+            35.519480351364
+          ],
+          [
+            136.96816030156,
+            35.519492397559
+          ],
+          [
+            136.96821071767,
+            35.516839277656
+          ],
+          [
+            136.96726267098,
+            35.516827232633
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "令和元年度［第３１-Ｋ２６６１-０１号］二級河川原野谷川総合流域防災事業（広域系）（防災・安全交付金）工事（河道掘削工）（その２）（ICT導入型）【11-03】, （株）永井組"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/31K2661011103/31K2661011103-1.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "2MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

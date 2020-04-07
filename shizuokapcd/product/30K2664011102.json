@@ -1,0 +1,76 @@
+{
+  "productNo": {
+    "value": "30-K2664-01-11-02"
+  },
+  "name": {
+    "value": "平成３０年度［第３０-Ｋ２６６４-０１号］二級河川太田川広域河川改修事業（防災・安全交付金）工事（河道掘削工第６工区）（ICT導入型）【11-02】"
+  },
+  "contractorName": {
+    "value": "丸明建設（株）"
+  },
+  "constructionPeriod": {
+    "value": "平成31年4月16日 ～ 令和1年8月30日"
+  },
+  "registeredDate": {
+    "value": "2020-01-28"
+  },
+  "measuredDate": {
+    "value": "2020-01-28"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-30K2664011102",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            137.90010148312,
+            34.706985767604
+          ],
+          [
+            137.90009468225,
+            34.707927801138
+          ],
+          [
+            137.90151924251,
+            34.707934806541
+          ],
+          [
+            137.90152602724,
+            34.706992772762
+          ],
+          [
+            137.90010148312,
+            34.706985767604
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "平成３０年度［第３０-Ｋ２６６４-０１号］二級河川太田川広域河川改修事業（防災・安全交付金）工事（河道掘削工第６工区）（ICT導入型）【11-02】, 丸明建設（株）"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30K2664011102/30K2664011102-1.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "1MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "productNo": {
+    "value": "31-K2650-01-11-02"
+  },
+  "name": {
+    "value": "令和元年度［第３１-Ｋ２６５０-０１号］二級河川瀬戸川総合流域防災事業（広域系）（防災・安全交付金）工事（河床掘削工・稲川工区）（ICT導入型）"
+  },
+  "contractorName": {
+    "value": "（株）杉山工務店"
+  },
+  "constructionPeriod": {
+    "value": "令和1年10月1日 ～ 令和2年2月28日"
+  },
+  "registeredDate": {
+    "value": "2020-02-26"
+  },
+  "measuredDate": {
+    "value": "2020-02-26"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-31K2650011102",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            138.27380074056,
+            34.864264005523
+          ],
+          [
+            138.27379842904,
+            34.865108211745
+          ],
+          [
+            138.27583256931,
+            34.865111978533
+          ],
+          [
+            138.27583486004,
+            34.864267772193
+          ],
+          [
+            138.27380074056,
+            34.864264005523
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "令和元年度［第３１-Ｋ２６５０-０１号］二級河川瀬戸川総合流域防災事業（広域系）（防災・安全交付金）工事（河床掘削工・稲川工区）（ICT導入型）, （株）杉山工務店"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/31K2650011102/31K2650011102-1.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "0MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

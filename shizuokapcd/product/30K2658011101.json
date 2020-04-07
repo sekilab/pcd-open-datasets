@@ -1,0 +1,76 @@
+{
+  "productNo": {
+    "value": "30-K2658-01-11-01"
+  },
+  "name": {
+    "value": "令和元年度［第３０-Ｋ２６５８-０１号］二級河川萩間川広域河川改修事業（防災・安全交付金）工事（河道掘削工）"
+  },
+  "contractorName": {
+    "value": "相良建設（株）"
+  },
+  "constructionPeriod": {
+    "value": "令和1年7月12日 ～ 令和2年2月28日"
+  },
+  "registeredDate": {
+    "value": "2020-02-28"
+  },
+  "measuredDate": {
+    "value": "2020-02-28"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-30K2658011101",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            138.16062559369,
+            34.719028392578
+          ],
+          [
+            138.1605624596,
+            34.73447466476
+          ],
+          [
+            138.16601812262,
+            34.734489745666
+          ],
+          [
+            138.16608024202,
+            34.719043464854
+          ],
+          [
+            138.16062559369,
+            34.719028392578
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "令和元年度［第３０-Ｋ２６５８-０１号］二級河川萩間川広域河川改修事業（防災・安全交付金）工事（河道掘削工）, 相良建設（株）"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30K2658011101/30K2658011101-1.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "31MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

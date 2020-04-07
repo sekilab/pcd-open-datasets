@@ -1,0 +1,76 @@
+{
+  "productNo": {
+    "value": "31-K2651-01-11-03"
+  },
+  "name": {
+    "value": "令和元年度［第３１-Ｋ２６５１-０１号］二級河川朝比奈川総合流域防災事業（広域系）（防災・安全交付金）工事（河床掘削工・坂本工区）（ICT導入型）"
+  },
+  "contractorName": {
+    "value": "（株）原川土木"
+  },
+  "constructionPeriod": {
+    "value": "令和1年10月1日 ～ 令和2年3月13日"
+  },
+  "registeredDate": {
+    "value": "2020-03-18"
+  },
+  "measuredDate": {
+    "value": "2020-03-13"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-31K2651011103",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            137.13457628369,
+            35.828178250398
+          ],
+          [
+            137.13453155939,
+            35.830788536245
+          ],
+          [
+            137.13667601574,
+            35.830812884738
+          ],
+          [
+            137.13672066985,
+            35.828202596568
+          ],
+          [
+            137.13457628369,
+            35.828178250398
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "令和元年度［第３１-Ｋ２６５１-０１号］二級河川朝比奈川総合流域防災事業（広域系）（防災・安全交付金）工事（河床掘削工・坂本工区）（ICT導入型）, （株）原川土木"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/31K2651011103/31K2651011103-1.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "0MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

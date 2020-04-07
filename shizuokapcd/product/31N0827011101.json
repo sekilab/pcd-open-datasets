@@ -1,0 +1,76 @@
+{
+  "productNo": {
+    "value": "31-N0827-01-11-01"
+  },
+  "name": {
+    "value": "令和元年度戦略畑地都田２期地区基盤整備１工事"
+  },
+  "contractorName": {
+    "value": "（株）小松組"
+  },
+  "constructionPeriod": {
+    "value": "令和1年8月22日 ～ 令和2年2月28日"
+  },
+  "registeredDate": {
+    "value": "2020-03-02"
+  },
+  "measuredDate": {
+    "value": "2020-02-03"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-31N0827011101",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            137.72548302257,
+            34.844621244748
+          ],
+          [
+            137.7254674183,
+            34.846286726947
+          ],
+          [
+            137.72725211159,
+            34.846298078994
+          ],
+          [
+            137.72726767992,
+            34.844632596095
+          ],
+          [
+            137.72548302257,
+            34.844621244748
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "令和元年度戦略畑地都田２期地区基盤整備１工事, （株）小松組"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/31N0827011101/31N0827011101-1.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "31MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

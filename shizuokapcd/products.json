@@ -15532,6 +15532,72 @@
     }
   },
   {
+    "id": "30K2650011103",
+    "name": {
+      "value": "平成３０年度［第３０-Ｋ２６５０-０１号］二級河川瀬戸川総合流域防災事業（広域一般）（防災・安全交付金）工事（河床掘削工・宮原工区）"
+    },
+    "area": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          138.21049663427,
+          34.89606309286
+        ]
+      }
+    },
+    "url": {
+      "value": "project/30K2650011103.json"
+    },
+    "originalUrl": {
+      "value": "https://pointcloud.pref.shizuoka.jp/lasmap/ankendetail?ankenno=30K2650011103"
+    }
+  },
+  {
+    "id": "30K2650011104",
+    "name": {
+      "value": "平成３０年度［第３０-Ｋ２６５０-０１号］二級河川瀬戸川総合流域防災事業（広域一般）（防災・安全交付金）工事（河床掘削工・岡当目工区）"
+    },
+    "area": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          138.31885971328,
+          34.877125250551
+        ]
+      }
+    },
+    "url": {
+      "value": "project/30K2650011104.json"
+    },
+    "originalUrl": {
+      "value": "https://pointcloud.pref.shizuoka.jp/lasmap/ankendetail?ankenno=30K2650011104"
+    }
+  },
+  {
+    "id": "30K2651011103",
+    "name": {
+      "value": "平成３０年度［第３０-Ｋ２６５１-０１号］二級河川朝比奈川総合流域防災事業（広域一般）（防災・安全交付金）工事（河床掘削工・坂本工区）"
+    },
+    "area": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          138.30542717587,
+          34.886137420366
+        ]
+      }
+    },
+    "url": {
+      "value": "project/30K2651011103.json"
+    },
+    "originalUrl": {
+      "value": "https://pointcloud.pref.shizuoka.jp/lasmap/ankendetail?ankenno=30K2651011103"
+    }
+  },
+  {
     "id": "30I8399013005",
     "name": {
       "value": "平成30年度路面変状調査((一)258号線_豊浜磐田線)"
@@ -15598,6 +15664,28 @@
     }
   },
   {
+    "id": "30K2661011103",
+    "name": {
+      "value": "平成３０年度［第３０-Ｋ２６６１-０１号］二級河川原野谷川総合流域防災事業（広域一般）（防災・安全交付金）工事（河道掘削工）（ICT導入型）【11-03】"
+    },
+    "area": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          137.91306412377,
+          34.724844488386
+        ]
+      }
+    },
+    "url": {
+      "value": "project/30K2661011103.json"
+    },
+    "originalUrl": {
+      "value": "https://pointcloud.pref.shizuoka.jp/lasmap/ankendetail?ankenno=30K2661011103"
+    }
+  },
+  {
     "id": "30K2664011104",
     "name": {
       "value": "平成３０年度［第３０-Ｋ２６６４-０１号］二級河川太田川広域河川改修事業（防災・安全交付金）工事（河道掘削工）（ICT導入型）【11-04】"
@@ -15639,6 +15727,28 @@
     },
     "originalUrl": {
       "value": "https://pointcloud.pref.shizuoka.jp/lasmap/ankendetail?ankenno=30K2663011101"
+    }
+  },
+  {
+    "id": "30K2664011101",
+    "name": {
+      "value": "平成３０年度［第３０-Ｋ２６６４-０１号］二級河川太田川広域河川改修事業（防災・安全交付金）工事（河道掘削工第５工区）（ICT導入型）【11-01】"
+    },
+    "area": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          137.90052252649,
+          34.707636919508
+        ]
+      }
+    },
+    "url": {
+      "value": "project/30K2664011101.json"
+    },
+    "originalUrl": {
+      "value": "https://pointcloud.pref.shizuoka.jp/lasmap/ankendetail?ankenno=30K2664011101"
     }
   },
   {
@@ -15972,6 +16082,28 @@
     }
   },
   {
+    "id": "31T2136021104",
+    "name": {
+      "value": "平成31年度治山（防災林造成）中新田１工事"
+    },
+    "area": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          137.95984388287,
+          34.667175288
+        ]
+      }
+    },
+    "url": {
+      "value": "project/31T2136021104.json"
+    },
+    "originalUrl": {
+      "value": "https://pointcloud.pref.shizuoka.jp/lasmap/ankendetail?ankenno=31T2136021104"
+    }
+  },
+  {
     "id": "30I8399013102",
     "name": {
       "value": "平成30年度路面変状調査((一)259号線_磐田竜洋線)"
@@ -16101,6 +16233,28 @@
     },
     "originalUrl": {
       "value": "https://pointcloud.pref.shizuoka.jp/lasmap/ankendetail?ankenno=30I8399013107"
+    }
+  },
+  {
+    "id": "30K2641011101",
+    "name": {
+      "value": "令和元年度［第３０-Ｋ２６４１-０１号］一級河川足久保川総合流域防災事業（広域一般）（防災・安全交付金）工事（河床掘削工ICT導入型）"
+    },
+    "area": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          138.33999993034,
+          35.059947414518
+        ]
+      }
+    },
+    "url": {
+      "value": "project/30K2641011101.json"
+    },
+    "originalUrl": {
+      "value": "https://pointcloud.pref.shizuoka.jp/lasmap/ankendetail?ankenno=30K2641011101"
     }
   },
   {
@@ -30756,6 +30910,28 @@
     }
   },
   {
+    "id": "30K2664011102",
+    "name": {
+      "value": "平成３０年度［第３０-Ｋ２６６４-０１号］二級河川太田川広域河川改修事業（防災・安全交付金）工事（河道掘削工第６工区）（ICT導入型）【11-02】"
+    },
+    "area": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          137.90060485668,
+          34.7068169599
+        ]
+      }
+    },
+    "url": {
+      "value": "project/30K2664011102.json"
+    },
+    "originalUrl": {
+      "value": "https://pointcloud.pref.shizuoka.jp/lasmap/ankendetail?ankenno=30K2664011102"
+    }
+  },
+  {
     "id": "29XXX00010002",
     "name": {
       "value": "平成２９年度建設工事技術管理事業UAV計測及び活用に係る説明資料作成業務（浜松市発注）（浜松城_2）"
@@ -30775,6 +30951,1326 @@
     },
     "originalUrl": {
       "value": "https://pointcloud.pref.shizuoka.jp/lasmap/ankendetail?ankenno=29XXX00010002"
+    }
+  },
+  {
+    "id": "30K2692011101",
+    "name": {
+      "value": "令和元年度［第３０-Ｋ２６９２-０１号］一級河川安倍川総合流域防災事業（広域一般）（防災・安全交付金）工事（河床掘削工ICT導入型）"
+    },
+    "area": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          138.36365243844,
+          35.142919423449
+        ]
+      }
+    },
+    "url": {
+      "value": "project/30K2692011101.json"
+    },
+    "originalUrl": {
+      "value": "https://pointcloud.pref.shizuoka.jp/lasmap/ankendetail?ankenno=30K2692011101"
+    }
+  },
+  {
+    "id": "31K2450011106",
+    "name": {
+      "value": "令和元年度［第３１-Ｋ２４５０-０１号］二級河川巴川（麻機遊水地）総合治水対策特定河川事業（防災・安全交付金）工事（加藤島エリア掘削築堤工その１　ICT導入型）"
+    },
+    "area": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          138.40201331181,
+          35.010405578391
+        ]
+      }
+    },
+    "url": {
+      "value": "project/31K2450011106.json"
+    },
+    "originalUrl": {
+      "value": "https://pointcloud.pref.shizuoka.jp/lasmap/ankendetail?ankenno=31K2450011106"
+    }
+  },
+  {
+    "id": "31K3741801105",
+    "name": {
+      "value": "令和元年度［第３１-Ｋ３７４１-８０号］二級河川布沢川河川維持修繕工事（河床掘削工）"
+    },
+    "area": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          138.45295623604,
+          35.116781725928
+        ]
+      }
+    },
+    "url": {
+      "value": "project/31K3741801105.json"
+    },
+    "originalUrl": {
+      "value": "https://pointcloud.pref.shizuoka.jp/lasmap/ankendetail?ankenno=31K3741801105"
+    }
+  },
+  {
+    "id": "31K2650011101",
+    "name": {
+      "value": "令和元年度［第３１-Ｋ２６５０-０１号］二級河川瀬戸川総合流域防災事業（広域系）（防災・安全交付金）工事（河床掘削工・茶町工区）（ICT導入型）"
+    },
+    "area": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          138.24291448245,
+          34.868595521505
+        ]
+      }
+    },
+    "url": {
+      "value": "project/31K2650011101.json"
+    },
+    "originalUrl": {
+      "value": "https://pointcloud.pref.shizuoka.jp/lasmap/ankendetail?ankenno=31K2650011101"
+    }
+  },
+  {
+    "id": "31K2651011103",
+    "name": {
+      "value": "令和元年度［第３１-Ｋ２６５１-０１号］二級河川朝比奈川総合流域防災事業（広域系）（防災・安全交付金）工事（河床掘削工・坂本工区）（ICT導入型）"
+    },
+    "area": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          138.30312469839,
+          34.888243196666
+        ]
+      }
+    },
+    "url": {
+      "value": "project/31K2651011103.json"
+    },
+    "originalUrl": {
+      "value": "https://pointcloud.pref.shizuoka.jp/lasmap/ankendetail?ankenno=31K2651011103"
+    }
+  },
+  {
+    "id": "31K4453011101",
+    "name": {
+      "value": "令和元年度［第３１-Ｋ４４５３-０１号］二級河川萩間川緊急自然災害防止対策事業工事（河道掘削工）（ICT導入型）"
+    },
+    "area": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          138.17547073617,
+          34.715332575303
+        ]
+      }
+    },
+    "url": {
+      "value": "project/31K4453011101.json"
+    },
+    "originalUrl": {
+      "value": "https://pointcloud.pref.shizuoka.jp/lasmap/ankendetail?ankenno=31K4453011101"
+    }
+  },
+  {
+    "id": "31K2664011103",
+    "name": {
+      "value": "令和元年度［第３１-Ｋ２６６４-０１号］二級河川太田川広域河川改修事業（防災・安全交付金）工事（河道掘削工　二瀬第３工区）（ICT導入型）【11-03】"
+    },
+    "area": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          137.90156880511,
+          34.710905490282
+        ]
+      }
+    },
+    "url": {
+      "value": "project/31K2664011103.json"
+    },
+    "originalUrl": {
+      "value": "https://pointcloud.pref.shizuoka.jp/lasmap/ankendetail?ankenno=31K2664011103"
+    }
+  },
+  {
+    "id": "31K2664011102",
+    "name": {
+      "value": "令和元年度［第３１-Ｋ２６６４-０１号］二級河川太田川広域河川改修事業（防災・安全交付金）工事（河道掘削工　二瀬第２工区）（ICT導入型）【11-02】"
+    },
+    "area": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          137.90091056477,
+          34.709838486532
+        ]
+      }
+    },
+    "url": {
+      "value": "project/31K2664011102.json"
+    },
+    "originalUrl": {
+      "value": "https://pointcloud.pref.shizuoka.jp/lasmap/ankendetail?ankenno=31K2664011102"
+    }
+  },
+  {
+    "id": "31K2663011101",
+    "name": {
+      "value": "令和元年度［第３１-Ｋ２６６３-０１号］二級河川小薮川総合流域防災事業（広域系）（防災・安全交付金）工事（河道掘削工）（ICT導入型）【11-01】"
+    },
+    "area": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          137.88207962415,
+          34.771370545994
+        ]
+      }
+    },
+    "url": {
+      "value": "project/31K2663011101.json"
+    },
+    "originalUrl": {
+      "value": "https://pointcloud.pref.shizuoka.jp/lasmap/ankendetail?ankenno=31K2663011101"
+    }
+  },
+  {
+    "id": "30K2675011102",
+    "name": {
+      "value": "令和元年度［第３０-Ｋ２６７５-０１号］二級河川都田川総合流域防災事業（広域一般）（防災・安全交付金）工事（河道掘削工その２）"
+    },
+    "area": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          137.68647662029,
+          34.809723169629
+        ]
+      }
+    },
+    "url": {
+      "value": "project/30K2675011102.json"
+    },
+    "originalUrl": {
+      "value": "https://pointcloud.pref.shizuoka.jp/lasmap/ankendetail?ankenno=30K2675011102"
+    }
+  },
+  {
+    "id": "31XXX08110001",
+    "name": {
+      "value": "R257 MMS レーザデータ_011"
+    },
+    "area": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          137.72600971169,
+          34.707897409781
+        ]
+      }
+    },
+    "url": {
+      "value": "project/31XXX08110001.json"
+    },
+    "originalUrl": {
+      "value": "https://pointcloud.pref.shizuoka.jp/lasmap/ankendetail?ankenno=31XXX08110001"
+    }
+  },
+  {
+    "id": "31XXX08120001",
+    "name": {
+      "value": "R257 MMS レーザデータ_012"
+    },
+    "area": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          137.72690287561,
+          34.708110422371
+        ]
+      }
+    },
+    "url": {
+      "value": "project/31XXX08120001.json"
+    },
+    "originalUrl": {
+      "value": "https://pointcloud.pref.shizuoka.jp/lasmap/ankendetail?ankenno=31XXX08120001"
+    }
+  },
+  {
+    "id": "31XXX08130001",
+    "name": {
+      "value": "R257 MMS レーザデータ_013"
+    },
+    "area": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          137.72520219729,
+          34.707865232892
+        ]
+      }
+    },
+    "url": {
+      "value": "project/31XXX08130001.json"
+    },
+    "originalUrl": {
+      "value": "https://pointcloud.pref.shizuoka.jp/lasmap/ankendetail?ankenno=31XXX08130001"
+    }
+  },
+  {
+    "id": "31XXX08140001",
+    "name": {
+      "value": "R257 MMS レーザデータ_014"
+    },
+    "area": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          137.72429487827,
+          34.710338550623
+        ]
+      }
+    },
+    "url": {
+      "value": "project/31XXX08140001.json"
+    },
+    "originalUrl": {
+      "value": "https://pointcloud.pref.shizuoka.jp/lasmap/ankendetail?ankenno=31XXX08140001"
+    }
+  },
+  {
+    "id": "31XXX08150001",
+    "name": {
+      "value": "R257 MMS レーザデータ_015"
+    },
+    "area": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          137.72281378722,
+          34.711122420842
+        ]
+      }
+    },
+    "url": {
+      "value": "project/31XXX08150001.json"
+    },
+    "originalUrl": {
+      "value": "https://pointcloud.pref.shizuoka.jp/lasmap/ankendetail?ankenno=31XXX08150001"
+    }
+  },
+  {
+    "id": "31XXX08160001",
+    "name": {
+      "value": "R257 MMS レーザデータ_016"
+    },
+    "area": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          137.72351528729,
+          34.710820387911
+        ]
+      }
+    },
+    "url": {
+      "value": "project/31XXX08160001.json"
+    },
+    "originalUrl": {
+      "value": "https://pointcloud.pref.shizuoka.jp/lasmap/ankendetail?ankenno=31XXX08160001"
+    }
+  },
+  {
+    "id": "31XXX08170001",
+    "name": {
+      "value": "R257 MMS レーザデータ_017"
+    },
+    "area": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          137.72177742566,
+          34.71104368672
+        ]
+      }
+    },
+    "url": {
+      "value": "project/31XXX08170001.json"
+    },
+    "originalUrl": {
+      "value": "https://pointcloud.pref.shizuoka.jp/lasmap/ankendetail?ankenno=31XXX08170001"
+    }
+  },
+  {
+    "id": "31XXX08180001",
+    "name": {
+      "value": "R257 MMS レーザデータ_018"
+    },
+    "area": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          137.7242478135,
+          34.708363993383
+        ]
+      }
+    },
+    "url": {
+      "value": "project/31XXX08180001.json"
+    },
+    "originalUrl": {
+      "value": "https://pointcloud.pref.shizuoka.jp/lasmap/ankendetail?ankenno=31XXX08180001"
+    }
+  },
+  {
+    "id": "31XXX08190001",
+    "name": {
+      "value": "R257 MMS レーザデータ_019"
+    },
+    "area": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          137.72446570928,
+          34.708410454871
+        ]
+      }
+    },
+    "url": {
+      "value": "project/31XXX08190001.json"
+    },
+    "originalUrl": {
+      "value": "https://pointcloud.pref.shizuoka.jp/lasmap/ankendetail?ankenno=31XXX08190001"
+    }
+  },
+  {
+    "id": "31XXX08200001",
+    "name": {
+      "value": "R257 MMS レーザデータ_020"
+    },
+    "area": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          137.726754081,
+          34.707676763994
+        ]
+      }
+    },
+    "url": {
+      "value": "project/31XXX08200001.json"
+    },
+    "originalUrl": {
+      "value": "https://pointcloud.pref.shizuoka.jp/lasmap/ankendetail?ankenno=31XXX08200001"
+    }
+  },
+  {
+    "id": "30K2670011105",
+    "name": {
+      "value": "令和元年度［第３０-Ｋ２６７０-０１号］一級河川気田川総合流域防災事業（広域一般）（防災・安全交付金）工事（河床掘削工・小川工区）【ICT導入型】"
+    },
+    "area": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          137.84950223382,
+          34.950485988696
+        ]
+      }
+    },
+    "url": {
+      "value": "project/30K2670011105.json"
+    },
+    "originalUrl": {
+      "value": "https://pointcloud.pref.shizuoka.jp/lasmap/ankendetail?ankenno=30K2670011105"
+    }
+  },
+  {
+    "id": "31K2673011101",
+    "name": {
+      "value": "令和元年度［第３１-Ｋ２６７３-０１号］一級河川水窪川総合流域防災事業（広域系）（防災・安全交付金）工事（河床掘削工）"
+    },
+    "area": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          137.86824689284,
+          35.15395137412
+        ]
+      }
+    },
+    "url": {
+      "value": "project/31K2673011101.json"
+    },
+    "originalUrl": {
+      "value": "https://pointcloud.pref.shizuoka.jp/lasmap/ankendetail?ankenno=31K2673011101"
+    }
+  },
+  {
+    "id": "31K2661011103",
+    "name": {
+      "value": "令和元年度［第３１-Ｋ２６６１-０１号］二級河川原野谷川総合流域防災事業（広域系）（防災・安全交付金）工事（河道掘削工）（その２）（ICT導入型）【11-03】"
+    },
+    "area": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          137.92755030916,
+          34.745873227517
+        ]
+      }
+    },
+    "url": {
+      "value": "project/31K2661011103.json"
+    },
+    "originalUrl": {
+      "value": "https://pointcloud.pref.shizuoka.jp/lasmap/ankendetail?ankenno=31K2661011103"
+    }
+  },
+  {
+    "id": "31W6974011102",
+    "name": {
+      "value": "令和元年度［第３１-Ｗ６９７４-０１号］御前崎港社会資本整備総合交付金【広域連携事業・愛知静岡（重要）】工事（マリンパーク掘削工その２）"
+    },
+    "area": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          138.22994565805,
+          34.605687352498
+        ]
+      }
+    },
+    "url": {
+      "value": "project/31W6974011102.json"
+    },
+    "originalUrl": {
+      "value": "https://pointcloud.pref.shizuoka.jp/lasmap/ankendetail?ankenno=31W6974011102"
+    }
+  },
+  {
+    "id": "31K2652011103",
+    "name": {
+      "value": "令和元年度［第３１-Ｋ２６５２-０１号］一級河川大井川総合流域防災事業（広域系）（防災・安全交付金）工事（小長井工区河床掘削工）（ICT導入型）"
+    },
+    "area": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          138.13778871535,
+          35.102727930454
+        ]
+      }
+    },
+    "url": {
+      "value": "project/31K2652011103.json"
+    },
+    "originalUrl": {
+      "value": "https://pointcloud.pref.shizuoka.jp/lasmap/ankendetail?ankenno=31K2652011103"
+    }
+  },
+  {
+    "id": "31K2641011101",
+    "name": {
+      "value": "令和元年度［第３１-Ｋ２６４１-０１号］一級河川足久保川ほか総合流域防災事業（広域系）（防災・安全交付金）工事（河床掘削工ICT導入型その２）"
+    },
+    "area": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          138.3631193378,
+          35.041684977322
+        ]
+      }
+    },
+    "url": {
+      "value": "project/31K2641011101.json"
+    },
+    "originalUrl": {
+      "value": "https://pointcloud.pref.shizuoka.jp/lasmap/ankendetail?ankenno=31K2641011101"
+    }
+  },
+  {
+    "id": "31K2650011102",
+    "name": {
+      "value": "令和元年度［第３１-Ｋ２６５０-０１号］二級河川瀬戸川総合流域防災事業（広域系）（防災・安全交付金）工事（河床掘削工・稲川工区）（ICT導入型）"
+    },
+    "area": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          138.27145547533,
+          34.863216522829
+        ]
+      }
+    },
+    "url": {
+      "value": "project/31K2650011102.json"
+    },
+    "originalUrl": {
+      "value": "https://pointcloud.pref.shizuoka.jp/lasmap/ankendetail?ankenno=31K2650011102"
+    }
+  },
+  {
+    "id": "31K4454011101",
+    "name": {
+      "value": "令和元年度［第３１-Ｋ４４５４-０１号］二級河川坂口谷川緊急自然災害防止対策事業工事（河道掘削工）（ICT導入型）"
+    },
+    "area": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          138.21969289561,
+          34.778358541835
+        ]
+      }
+    },
+    "url": {
+      "value": "project/31K4454011101.json"
+    },
+    "originalUrl": {
+      "value": "https://pointcloud.pref.shizuoka.jp/lasmap/ankendetail?ankenno=31K4454011101"
+    }
+  },
+  {
+    "id": "30K2658011101",
+    "name": {
+      "value": "令和元年度［第３０-Ｋ２６５８-０１号］二級河川萩間川広域河川改修事業（防災・安全交付金）工事（河道掘削工）"
+    },
+    "area": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          138.16095905198,
+          34.726543895955
+        ]
+      }
+    },
+    "url": {
+      "value": "project/30K2658011101.json"
+    },
+    "originalUrl": {
+      "value": "https://pointcloud.pref.shizuoka.jp/lasmap/ankendetail?ankenno=30K2658011101"
+    }
+  },
+  {
+    "id": "31K2680011101",
+    "name": {
+      "value": "令和元年度［第３１-Ｋ２６８０-０１号］二級河川太田川広域河川改修事業（防災・安全交付金）工事（河道掘削工第１工区）（ICT導入型）【11-01】"
+    },
+    "area": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          137.8952394881,
+          34.69855975399
+        ]
+      }
+    },
+    "url": {
+      "value": "project/31K2680011101.json"
+    },
+    "originalUrl": {
+      "value": "https://pointcloud.pref.shizuoka.jp/lasmap/ankendetail?ankenno=31K2680011101"
+    }
+  },
+  {
+    "id": "31N0827011101",
+    "name": {
+      "value": "令和元年度戦略畑地都田２期地区基盤整備１工事"
+    },
+    "area": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          137.72643603526,
+          34.835441305817
+        ]
+      }
+    },
+    "url": {
+      "value": "project/31N0827011101.json"
+    },
+    "originalUrl": {
+      "value": "https://pointcloud.pref.shizuoka.jp/lasmap/ankendetail?ankenno=31N0827011101"
+    }
+  },
+  {
+    "id": "31XXX07010001",
+    "name": {
+      "value": "船明ダム調査データ・斜面崩壊箇所Lasデータ"
+    },
+    "area": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          138.49716057997,
+          35.995971047136
+        ]
+      }
+    },
+    "url": {
+      "value": "project/31XXX07010001.json"
+    },
+    "originalUrl": {
+      "value": "https://pointcloud.pref.shizuoka.jp/lasmap/ankendetail?ankenno=31XXX07010001"
+    }
+  },
+  {
+    "id": "31XXX10010001",
+    "name": {
+      "value": "平成30年度　（市）材木20号線詳細設計業務"
+    },
+    "area": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          138.50139765523,
+          36.00323574384
+        ]
+      }
+    },
+    "url": {
+      "value": "project/31XXX10010001.json"
+    },
+    "originalUrl": {
+      "value": "https://pointcloud.pref.shizuoka.jp/lasmap/ankendetail?ankenno=31XXX10010001"
+    }
+  },
+  {
+    "id": "31K4467011101",
+    "name": {
+      "value": "令和元年度［第３１-Ｋ４４６７-０１号］二級河川太田川緊急自然災害防止対策事業工事（河道掘削工）（ICT導入型）【11-01】"
+    },
+    "area": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          137.92369186025,
+          34.824870580589
+        ]
+      }
+    },
+    "url": {
+      "value": "project/31K4467011101.json"
+    },
+    "originalUrl": {
+      "value": "https://pointcloud.pref.shizuoka.jp/lasmap/ankendetail?ankenno=31K4467011101"
+    }
+  },
+  {
+    "id": "30K3726061103",
+    "name": {
+      "value": "令和元年度［第３０-Ｋ３７２６-０６号］二級河川土肥山川河川維持修繕工事（河床掘削工）"
+    },
+    "area": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          138.79237827343,
+          34.910732369643
+        ]
+      }
+    },
+    "url": {
+      "value": "project/30K3726061103.json"
+    },
+    "originalUrl": {
+      "value": "https://pointcloud.pref.shizuoka.jp/lasmap/ankendetail?ankenno=30K3726061103"
+    }
+  },
+  {
+    "id": "31K2657011101",
+    "name": {
+      "value": "令和元年度［第３１-Ｋ２６５７-０１号］二級河川勝間田川総合流域防災事業（広域系）（防災・安全交付金）工事（河道掘削工）"
+    },
+    "area": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          138.16068904124,
+          34.781895523367
+        ]
+      }
+    },
+    "url": {
+      "value": "project/31K2657011101.json"
+    },
+    "originalUrl": {
+      "value": "https://pointcloud.pref.shizuoka.jp/lasmap/ankendetail?ankenno=31K2657011101"
+    }
+  },
+  {
+    "id": "31K3751221102",
+    "name": {
+      "value": "令和元年度［第３１-Ｋ３７５１-２２号］二級河川栃山川河川維持修繕工事（河床掘削工）"
+    },
+    "area": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          138.30938239026,
+          34.821993404213
+        ]
+      }
+    },
+    "url": {
+      "value": "project/31K3751221102.json"
+    },
+    "originalUrl": {
+      "value": "https://pointcloud.pref.shizuoka.jp/lasmap/ankendetail?ankenno=31K3751221102"
+    }
+  },
+  {
+    "id": "30K3736021102",
+    "name": {
+      "value": "令和元年度［第３０-Ｋ３７３６-０２号］一級河川稲瀬川河川維持修繕工事（河床掘削工・ICT導入型）"
+    },
+    "area": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          138.54874313666,
+          35.18849146352
+        ]
+      }
+    },
+    "url": {
+      "value": "project/30K3736021102.json"
+    },
+    "originalUrl": {
+      "value": "https://pointcloud.pref.shizuoka.jp/lasmap/ankendetail?ankenno=30K3736021102"
+    }
+  },
+  {
+    "id": "31K4455011102",
+    "name": {
+      "value": "令和元年度［第３１-Ｋ４４５５-０１号］一級河川大井川緊急自然災害防止対策事業工事（徳山工区堤防舗装工）"
+    },
+    "area": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          138.10854566732,
+          35.072789917011
+        ]
+      }
+    },
+    "url": {
+      "value": "project/31K4455011102.json"
+    },
+    "originalUrl": {
+      "value": "https://pointcloud.pref.shizuoka.jp/lasmap/ankendetail?ankenno=31K4455011102"
+    }
+  },
+  {
+    "id": "30K2650011105",
+    "name": {
+      "value": "平成３０年度［第３０-Ｋ２６５０-０１号］二級河川瀬戸川総合流域防災事業（広域一般）（防災・安全交付金）工事（河床掘削工・保福島工区）"
+    },
+    "area": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          138.28110465636,
+          34.866380479424
+        ]
+      }
+    },
+    "url": {
+      "value": "project/30K2650011105.json"
+    },
+    "originalUrl": {
+      "value": "https://pointcloud.pref.shizuoka.jp/lasmap/ankendetail?ankenno=30K2650011105"
+    }
+  },
+  {
+    "id": "31K3741501104",
+    "name": {
+      "value": "令和元年度［第３１-Ｋ３７４１-５０号］一級河川内牧川河川維持修繕工事（河床掘削工ICT導入型）"
+    },
+    "area": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          138.35367553778,
+          35.014530741637
+        ]
+      }
+    },
+    "url": {
+      "value": "project/31K3741501104.json"
+    },
+    "originalUrl": {
+      "value": "https://pointcloud.pref.shizuoka.jp/lasmap/ankendetail?ankenno=31K3741501104"
+    }
+  },
+  {
+    "id": "31K2670011101",
+    "name": {
+      "value": "令和元年度［第３１-Ｋ２６７０-０１号］一級河川気田川総合流域防災事業（広域系）（防災・安全交付金）工事（河床掘削工・豊岡工区）【ＩＣＴ導入型】"
+    },
+    "area": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          137.92175550312,
+          35.024771123032
+        ]
+      }
+    },
+    "url": {
+      "value": "project/31K2670011101.json"
+    },
+    "originalUrl": {
+      "value": "https://pointcloud.pref.shizuoka.jp/lasmap/ankendetail?ankenno=31K2670011101"
+    }
+  },
+  {
+    "id": "31XXX08010001",
+    "name": {
+      "value": "R257 MMS レーザデータ_001"
+    },
+    "area": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          137.72452335878,
+          34.710421138911
+        ]
+      }
+    },
+    "url": {
+      "value": "project/31XXX08010001.json"
+    },
+    "originalUrl": {
+      "value": "https://pointcloud.pref.shizuoka.jp/lasmap/ankendetail?ankenno=31XXX08010001"
+    }
+  },
+  {
+    "id": "30K2643011108",
+    "name": {
+      "value": "令和元年度［第３０-Ｋ２６４３-０１号］二級河川巴川（麻機遊水地）総合治水対策特定河川事業（防災・安全交付金）工事（巴川掘削工ICT導入型）"
+    },
+    "area": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          138.39175213455,
+          35.022981390446
+        ]
+      }
+    },
+    "url": {
+      "value": "project/30K2643011108.json"
+    },
+    "originalUrl": {
+      "value": "https://pointcloud.pref.shizuoka.jp/lasmap/ankendetail?ankenno=30K2643011108"
+    }
+  },
+  {
+    "id": "31XXX08020001",
+    "name": {
+      "value": "R257 MMS レーザデータ_002"
+    },
+    "area": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          137.72450545921,
+          34.711169259437
+        ]
+      }
+    },
+    "url": {
+      "value": "project/31XXX08020001.json"
+    },
+    "originalUrl": {
+      "value": "https://pointcloud.pref.shizuoka.jp/lasmap/ankendetail?ankenno=31XXX08020001"
+    }
+  },
+  {
+    "id": "30K2651011104",
+    "name": {
+      "value": "令和元年度［第３０-Ｋ２６５１-０１号］二級河川朝比奈川総合流域防災事業（広域一般）（防災・安全交付金）工事（河床掘削工・村良工区）（ICT導入型）"
+    },
+    "area": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          138.26929741497,
+          34.915327442156
+        ]
+      }
+    },
+    "url": {
+      "value": "project/30K2651011104.json"
+    },
+    "originalUrl": {
+      "value": "https://pointcloud.pref.shizuoka.jp/lasmap/ankendetail?ankenno=30K2651011104"
+    }
+  },
+  {
+    "id": "30K2650011106",
+    "name": {
+      "value": "令和元年度［第３０-Ｋ２６５０-０１号］二級河川瀬戸川総合流域防災事業（広域一般）（防災・安全交付金）工事（河床掘削工・茶町２工区）（ICT導入型）"
+    },
+    "area": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          138.2438996716,
+          34.86834518321
+        ]
+      }
+    },
+    "url": {
+      "value": "project/30K2650011106.json"
+    },
+    "originalUrl": {
+      "value": "https://pointcloud.pref.shizuoka.jp/lasmap/ankendetail?ankenno=30K2650011106"
+    }
+  },
+  {
+    "id": "31XXX06030001",
+    "name": {
+      "value": "平成30年度ｽﾏｰﾄｲﾝﾀｰﾁｪﾝｼﾞ関連整備単独事業（市）呉松102号線外1線道路改良工事（ICT土工）_003"
+    },
+    "area": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          137.63700845067,
+          34.775117571179
+        ]
+      }
+    },
+    "url": {
+      "value": "project/31XXX06030001.json"
+    },
+    "originalUrl": {
+      "value": "https://pointcloud.pref.shizuoka.jp/lasmap/ankendetail?ankenno=31XXX06030001"
+    }
+  },
+  {
+    "id": "31XXX08030001",
+    "name": {
+      "value": "R257 MMS レーザデータ_003"
+    },
+    "area": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          137.72428073884,
+          34.711852959152
+        ]
+      }
+    },
+    "url": {
+      "value": "project/31XXX08030001.json"
+    },
+    "originalUrl": {
+      "value": "https://pointcloud.pref.shizuoka.jp/lasmap/ankendetail?ankenno=31XXX08030001"
+    }
+  },
+  {
+    "id": "31XXX06040001",
+    "name": {
+      "value": "平成30年度ｽﾏｰﾄｲﾝﾀｰﾁｪﾝｼﾞ関連整備単独事業（市）呉松102号線外1線道路改良工事（ICT土工）_004"
+    },
+    "area": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          137.63703076867,
+          34.77507265584
+        ]
+      }
+    },
+    "url": {
+      "value": "project/31XXX06040001.json"
+    },
+    "originalUrl": {
+      "value": "https://pointcloud.pref.shizuoka.jp/lasmap/ankendetail?ankenno=31XXX06040001"
+    }
+  },
+  {
+    "id": "31XXX06020001",
+    "name": {
+      "value": "平成30年度ｽﾏｰﾄｲﾝﾀｰﾁｪﾝｼﾞ関連整備単独事業（市）呉松102号線外1線道路改良工事（ICT土工）_002"
+    },
+    "area": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          137.63701890577,
+          34.775162718845
+        ]
+      }
+    },
+    "url": {
+      "value": "project/31XXX06020001.json"
+    },
+    "originalUrl": {
+      "value": "https://pointcloud.pref.shizuoka.jp/lasmap/ankendetail?ankenno=31XXX06020001"
+    }
+  },
+  {
+    "id": "31XXX06010001",
+    "name": {
+      "value": "平成30年度ｽﾏｰﾄｲﾝﾀｰﾁｪﾝｼﾞ関連整備単独事業（市）呉松102号線外1線道路改良工事（ICT土工）_001"
+    },
+    "area": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          137.6370184365,
+          34.775207789067
+        ]
+      }
+    },
+    "url": {
+      "value": "project/31XXX06010001.json"
+    },
+    "originalUrl": {
+      "value": "https://pointcloud.pref.shizuoka.jp/lasmap/ankendetail?ankenno=31XXX06010001"
+    }
+  },
+  {
+    "id": "31XXX08040001",
+    "name": {
+      "value": "R257 MMS レーザデータ_004"
+    },
+    "area": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          137.72462927849,
+          34.708429525636
+        ]
+      }
+    },
+    "url": {
+      "value": "project/31XXX08040001.json"
+    },
+    "originalUrl": {
+      "value": "https://pointcloud.pref.shizuoka.jp/lasmap/ankendetail?ankenno=31XXX08040001"
+    }
+  },
+  {
+    "id": "31XXX08050001",
+    "name": {
+      "value": "R257 MMS レーザデータ_005"
+    },
+    "area": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          137.72142624987,
+          34.711239770288
+        ]
+      }
+    },
+    "url": {
+      "value": "project/31XXX08050001.json"
+    },
+    "originalUrl": {
+      "value": "https://pointcloud.pref.shizuoka.jp/lasmap/ankendetail?ankenno=31XXX08050001"
+    }
+  },
+  {
+    "id": "31XXX08060001",
+    "name": {
+      "value": "R257 MMS レーザデータ_006"
+    },
+    "area": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          137.72143363703,
+          34.712781360064
+        ]
+      }
+    },
+    "url": {
+      "value": "project/31XXX08060001.json"
+    },
+    "originalUrl": {
+      "value": "https://pointcloud.pref.shizuoka.jp/lasmap/ankendetail?ankenno=31XXX08060001"
+    }
+  },
+  {
+    "id": "31XXX08070001",
+    "name": {
+      "value": "R257 MMS レーザデータ_007"
+    },
+    "area": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          137.72450478609,
+          34.711241374132
+        ]
+      }
+    },
+    "url": {
+      "value": "project/31XXX08070001.json"
+    },
+    "originalUrl": {
+      "value": "https://pointcloud.pref.shizuoka.jp/lasmap/ankendetail?ankenno=31XXX08070001"
+    }
+  },
+  {
+    "id": "31XXX08080001",
+    "name": {
+      "value": "R257 MMS レーザデータ_008"
+    },
+    "area": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          137.72680692034,
+          34.710210279848
+        ]
+      }
+    },
+    "url": {
+      "value": "project/31XXX08080001.json"
+    },
+    "originalUrl": {
+      "value": "https://pointcloud.pref.shizuoka.jp/lasmap/ankendetail?ankenno=31XXX08080001"
+    }
+  },
+  {
+    "id": "31XXX08090001",
+    "name": {
+      "value": "R257 MMS レーザデータ_009"
+    },
+    "area": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          137.72544056288,
+          34.71039992858
+        ]
+      }
+    },
+    "url": {
+      "value": "project/31XXX08090001.json"
+    },
+    "originalUrl": {
+      "value": "https://pointcloud.pref.shizuoka.jp/lasmap/ankendetail?ankenno=31XXX08090001"
+    }
+  },
+  {
+    "id": "31XXX08100001",
+    "name": {
+      "value": "R257 MMS レーザデータ_010"
+    },
+    "area": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          137.72677425602,
+          34.710201057682
+        ]
+      }
+    },
+    "url": {
+      "value": "project/31XXX08100001.json"
+    },
+    "originalUrl": {
+      "value": "https://pointcloud.pref.shizuoka.jp/lasmap/ankendetail?ankenno=31XXX08100001"
+    }
+  },
+  {
+    "id": "31K2664011101",
+    "name": {
+      "value": "令和元年度［第３１-Ｋ２６６４-０１号］二級河川太田川広域河川改修事業（防災・安全交付金）工事（河道掘削工　二瀬第１工区）（ICT導入型）【11-01】"
+    },
+    "area": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          137.90101232183,
+          34.709352177205
+        ]
+      }
+    },
+    "url": {
+      "value": "project/31K2664011101.json"
+    },
+    "originalUrl": {
+      "value": "https://pointcloud.pref.shizuoka.jp/lasmap/ankendetail?ankenno=31K2664011101"
     }
   }
 ]

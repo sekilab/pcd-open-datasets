@@ -1,0 +1,76 @@
+{
+  "productNo": {
+    "value": "31-K4453-01-11-01"
+  },
+  "name": {
+    "value": "令和元年度［第３１-Ｋ４４５３-０１号］二級河川萩間川緊急自然災害防止対策事業工事（河道掘削工）（ICT導入型）"
+  },
+  "contractorName": {
+    "value": "相良建設（株）"
+  },
+  "constructionPeriod": {
+    "value": "令和1年9月10日 ～ 令和2年3月13日"
+  },
+  "registeredDate": {
+    "value": "2020-03-07"
+  },
+  "measuredDate": {
+    "value": "2020-03-07"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-31K4453011101",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            138.16062559369,
+            34.719028392578
+          ],
+          [
+            138.1605624596,
+            34.73447466476
+          ],
+          [
+            138.16601812262,
+            34.734489745666
+          ],
+          [
+            138.16608024202,
+            34.719043464854
+          ],
+          [
+            138.16062559369,
+            34.719028392578
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "令和元年度［第３１-Ｋ４４５３-０１号］二級河川萩間川緊急自然災害防止対策事業工事（河道掘削工）（ICT導入型）, 相良建設（株）"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/31K4453011101/31K4453011101-1.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "31MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

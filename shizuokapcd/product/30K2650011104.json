@@ -1,0 +1,76 @@
+{
+  "productNo": {
+    "value": "30-K2650-01-11-04"
+  },
+  "name": {
+    "value": "平成３０年度［第３０-Ｋ２６５０-０１号］二級河川瀬戸川総合流域防災事業（広域一般）（防災・安全交付金）工事（河床掘削工・岡当目工区）"
+  },
+  "contractorName": {
+    "value": "（株）橋本組"
+  },
+  "constructionPeriod": {
+    "value": "平成31年3月29日 ～ 令和2年2月28日"
+  },
+  "registeredDate": {
+    "value": "2020-03-16"
+  },
+  "measuredDate": {
+    "value": "2020-03-12"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-30K2650011104",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            137.12056379502,
+            35.841112016727
+          ],
+          [
+            137.12050933275,
+            35.844256805461
+          ],
+          [
+            137.12191928248,
+            35.844272985646
+          ],
+          [
+            137.12197368913,
+            35.841128195052
+          ],
+          [
+            137.12056379502,
+            35.841112016727
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "平成３０年度［第３０-Ｋ２６５０-０１号］二級河川瀬戸川総合流域防災事業（広域一般）（防災・安全交付金）工事（河床掘削工・岡当目工区）, （株）橋本組"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30K2650011104/30K2650011104-1.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "15MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "productNo": {
+    "value": "31-XXX07-01-00-01"
+  },
+  "name": {
+    "value": "船明ダム調査データ・斜面崩壊箇所Lasデータ"
+  },
+  "contractorName": {
+    "value": "静岡コンサルタント株式会社"
+  },
+  "constructionPeriod": {
+    "value": ""
+  },
+  "registeredDate": {
+    "value": "2020-04-02"
+  },
+  "measuredDate": {
+    "value": "2019-07-01"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-31XXX07010001",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            138.49715528949,
+            35.995966783746
+          ],
+          [
+            138.49715508569,
+            36.001641321956
+          ],
+          [
+            138.50162451965,
+            36.001641344691
+          ],
+          [
+            138.50162440327,
+            35.995966806476
+          ],
+          [
+            138.49715528949,
+            35.995966783746
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "船明ダム調査データ・斜面崩壊箇所Lasデータ, 静岡コンサルタント株式会社"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/31XXX07010001/31XXX07010001-1.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/31XXX07010001/31XXX07010001-2.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/31XXX07010001/31XXX07010001-3.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "200MB",
+      "200MB",
+      "139MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

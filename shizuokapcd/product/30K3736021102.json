@@ -1,0 +1,86 @@
+{
+  "productNo": {
+    "value": "30-K3736-02-11-02"
+  },
+  "name": {
+    "value": "令和元年度［第３０-Ｋ３７３６-０２号］一級河川稲瀬川河川維持修繕工事（河床掘削工・ICT導入型）"
+  },
+  "contractorName": {
+    "value": "（株）藁科組"
+  },
+  "constructionPeriod": {
+    "value": "令和1年10月30日 ～ 令和2年3月13日"
+  },
+  "registeredDate": {
+    "value": "2020-03-10"
+  },
+  "measuredDate": {
+    "value": "2020-03-10"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-30K3736021102",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            138.54725312784,
+            35.186557344485
+          ],
+          [
+            138.54725468297,
+            35.189243597448
+          ],
+          [
+            138.55037379926,
+            35.189242340274
+          ],
+          [
+            138.55037214148,
+            35.186556087435
+          ],
+          [
+            138.54725312784,
+            35.186557344485
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "令和元年度［第３０-Ｋ３７３６-０２号］一級河川稲瀬川河川維持修繕工事（河床掘削工・ICT導入型）, （株）藁科組"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30K3736021102/30K3736021102-1.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30K3736021102/30K3736021102-2.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30K3736021102/30K3736021102-3.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30K3736021102/30K3736021102-4.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30K3736021102/30K3736021102-5.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30K3736021102/30K3736021102-6.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "191MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

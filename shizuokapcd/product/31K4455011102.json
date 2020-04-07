@@ -1,0 +1,76 @@
+{
+  "productNo": {
+    "value": "31-K4455-01-11-02"
+  },
+  "name": {
+    "value": "令和元年度［第３１-Ｋ４４５５-０１号］一級河川大井川緊急自然災害防止対策事業工事（徳山工区堤防舗装工）"
+  },
+  "contractorName": {
+    "value": "（株）エコワーク"
+  },
+  "constructionPeriod": {
+    "value": "令和1年12月23日 ～ 令和2年3月25日"
+  },
+  "registeredDate": {
+    "value": "2020-03-13"
+  },
+  "measuredDate": {
+    "value": "2020-03-04"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-31K4455011102",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            138.10204724177,
+            35.073390568504
+          ],
+          [
+            138.10203510084,
+            35.075891231611
+          ],
+          [
+            138.10855480144,
+            35.075912450052
+          ],
+          [
+            138.10856674349,
+            35.073411784988
+          ],
+          [
+            138.10204724177,
+            35.073390568504
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "令和元年度［第３１-Ｋ４４５５-０１号］一級河川大井川緊急自然災害防止対策事業工事（徳山工区堤防舗装工）, （株）エコワーク"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/31K4455011102/31K4455011102-1.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "105MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

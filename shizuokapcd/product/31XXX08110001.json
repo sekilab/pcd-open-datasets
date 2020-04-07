@@ -1,0 +1,76 @@
+{
+  "productNo": {
+    "value": "31-XXX08-11-00-01"
+  },
+  "name": {
+    "value": "R257 MMS レーザデータ_011"
+  },
+  "contractorName": {
+    "value": ""
+  },
+  "constructionPeriod": {
+    "value": ""
+  },
+  "registeredDate": {
+    "value": "2020-04-02"
+  },
+  "measuredDate": {
+    "value": "2018-08-01"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-31XXX08110001",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            137.72549080562,
+            34.707316581638
+          ],
+          [
+            137.72547995645,
+            34.708480522
+          ],
+          [
+            137.72653941847,
+            34.70848725208
+          ],
+          [
+            137.7265502528,
+            34.707323311427
+          ],
+          [
+            137.72549080562,
+            34.707316581638
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "R257 MMS レーザデータ_011, "
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/31XXX08110001/31XXX08110001-1.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "21MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "productNo": {
+    "value": "31-XXX06-03-00-01"
+  },
+  "name": {
+    "value": "平成30年度ｽﾏｰﾄｲﾝﾀｰﾁｪﾝｼﾞ関連整備単独事業（市）呉松102号線外1線道路改良工事（ICT土工）_003"
+  },
+  "contractorName": {
+    "value": "藤野建設株式会社"
+  },
+  "constructionPeriod": {
+    "value": ""
+  },
+  "registeredDate": {
+    "value": "2020-04-02"
+  },
+  "measuredDate": {
+    "value": "2019-10-01"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-31XXX06030001",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            137.63616607376,
+            34.774282333467
+          ],
+          [
+            137.6361476628,
+            34.776048806358
+          ],
+          [
+            137.63785931876,
+            34.776060940565
+          ],
+          [
+            137.63787769326,
+            34.77429446688
+          ],
+          [
+            137.63616607376,
+            34.774282333467
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "平成30年度ｽﾏｰﾄｲﾝﾀｰﾁｪﾝｼﾞ関連整備単独事業（市）呉松102号線外1線道路改良工事（ICT土工）_003, 藤野建設株式会社"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/31XXX06030001/31XXX06030001-1.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "44MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

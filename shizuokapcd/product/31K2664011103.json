@@ -1,0 +1,76 @@
+{
+  "productNo": {
+    "value": "31-K2664-01-11-03"
+  },
+  "name": {
+    "value": "令和元年度［第３１-Ｋ２６６４-０１号］二級河川太田川広域河川改修事業（防災・安全交付金）工事（河道掘削工　二瀬第３工区）（ICT導入型）【11-03】"
+  },
+  "contractorName": {
+    "value": "平野建設（株）"
+  },
+  "constructionPeriod": {
+    "value": "令和1年9月14日 ～ 令和2年3月10日"
+  },
+  "registeredDate": {
+    "value": "2020-02-28"
+  },
+  "measuredDate": {
+    "value": "2020-02-28"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-31K2664011103",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            137.89994893748,
+            34.709049179762
+          ],
+          [
+            137.89993718747,
+            34.71067618367
+          ],
+          [
+            137.90147108023,
+            34.710683728288
+          ],
+          [
+            137.90148280021,
+            34.709056723926
+          ],
+          [
+            137.89994893748,
+            34.709049179762
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "令和元年度［第３１-Ｋ２６６４-０１号］二級河川太田川広域河川改修事業（防災・安全交付金）工事（河道掘削工　二瀬第３工区）（ICT導入型）【11-03】, 平野建設（株）"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/31K2664011103/31K2664011103-1.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "18MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

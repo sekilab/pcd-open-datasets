@@ -1,0 +1,76 @@
+{
+  "productNo": {
+    "value": "30-K2670-01-11-05"
+  },
+  "name": {
+    "value": "令和元年度［第３０-Ｋ２６７０-０１号］一級河川気田川総合流域防災事業（広域一般）（防災・安全交付金）工事（河床掘削工・小川工区）【ICT導入型】"
+  },
+  "contractorName": {
+    "value": "村松建設（株）"
+  },
+  "constructionPeriod": {
+    "value": "令和1年10月2日 ～ 令和2年1月31日"
+  },
+  "registeredDate": {
+    "value": "2020-02-05"
+  },
+  "measuredDate": {
+    "value": "2019-12-27"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-30K2670011105",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            137.84888840502,
+            34.949883228428
+          ],
+          [
+            137.84888017257,
+            34.950924371541
+          ],
+          [
+            137.8507632592,
+            34.950934451185
+          ],
+          [
+            137.85077146785,
+            34.949893307685
+          ],
+          [
+            137.84888840502,
+            34.949883228428
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "令和元年度［第３０-Ｋ２６７０-０１号］一級河川気田川総合流域防災事業（広域一般）（防災・安全交付金）工事（河床掘削工・小川工区）【ICT導入型】, 村松建設（株）"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30K2670011105/30K2670011105-1.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "1MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "productNo": {
+    "value": "30-K2651-01-11-04"
+  },
+  "name": {
+    "value": "令和元年度［第３０-Ｋ２６５１-０１号］二級河川朝比奈川総合流域防災事業（広域一般）（防災・安全交付金）工事（河床掘削工・村良工区）（ICT導入型）"
+  },
+  "contractorName": {
+    "value": "（株）トーカイ"
+  },
+  "constructionPeriod": {
+    "value": "令和1年10月1日 ～ 令和2年3月25日"
+  },
+  "registeredDate": {
+    "value": "2020-03-24"
+  },
+  "measuredDate": {
+    "value": "2020-03-24"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-30K2651011104",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            138.26947416493,
+            34.915326605636
+          ],
+          [
+            138.26946164424,
+            34.91980461022
+          ],
+          [
+            138.27215206117,
+            34.919809684516
+          ],
+          [
+            138.27216443575,
+            34.915331679092
+          ],
+          [
+            138.26947416493,
+            34.915326605636
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "令和元年度［第３０-Ｋ２６５１-０１号］二級河川朝比奈川総合流域防災事業（広域一般）（防災・安全交付金）工事（河床掘削工・村良工区）（ICT導入型）, （株）トーカイ"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30K2651011104/30K2651011104-1.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "1MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

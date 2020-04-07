@@ -1,0 +1,76 @@
+{
+  "productNo": {
+    "value": "30-K2650-01-11-06"
+  },
+  "name": {
+    "value": "令和元年度［第３０-Ｋ２６５０-０１号］二級河川瀬戸川総合流域防災事業（広域一般）（防災・安全交付金）工事（河床掘削工・茶町２工区）（ICT導入型）"
+  },
+  "contractorName": {
+    "value": "大藤建設（株）"
+  },
+  "constructionPeriod": {
+    "value": "令和1年10月1日 ～ 令和2年2月28日"
+  },
+  "registeredDate": {
+    "value": "2020-03-24"
+  },
+  "measuredDate": {
+    "value": "2020-03-24"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-30K2650011106",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            138.24373993923,
+            34.866947536969
+          ],
+          [
+            138.24373553442,
+            34.868367374659
+          ],
+          [
+            138.24622388887,
+            34.8683725933
+          ],
+          [
+            138.24622825091,
+            34.866952755336
+          ],
+          [
+            138.24373993923,
+            34.866947536969
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "令和元年度［第３０-Ｋ２６５０-０１号］二級河川瀬戸川総合流域防災事業（広域一般）（防災・安全交付金）工事（河床掘削工・茶町２工区）（ICT導入型）, 大藤建設（株）"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30K2650011106/30K2650011106-1.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "2MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

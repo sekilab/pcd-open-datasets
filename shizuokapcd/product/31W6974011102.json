@@ -1,0 +1,88 @@
+{
+  "productNo": {
+    "value": "31-W6974-01-11-02"
+  },
+  "name": {
+    "value": "令和元年度［第３１-Ｗ６９７４-０１号］御前崎港社会資本整備総合交付金【広域連携事業・愛知静岡（重要）】工事（マリンパーク掘削工その２）"
+  },
+  "contractorName": {
+    "value": "港建設（株）"
+  },
+  "constructionPeriod": {
+    "value": "令和1年9月14日 ～ 令和2年2月28日"
+  },
+  "registeredDate": {
+    "value": "2020-02-17"
+  },
+  "measuredDate": {
+    "value": "2020-02-17"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-31W6974011102",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            138.22601043645,
+            34.604841969702
+          ],
+          [
+            138.22599913713,
+            34.608281851845
+          ],
+          [
+            138.23201049289,
+            34.608295203688
+          ],
+          [
+            138.23202154432,
+            34.604855319841
+          ],
+          [
+            138.22601043645,
+            34.604841969702
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "令和元年度［第３１-Ｗ６９７４-０１号］御前崎港社会資本整備総合交付金【広域連携事業・愛知静岡（重要）】工事（マリンパーク掘削工その２）, 港建設（株）"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/31W6974011102/31W6974011102-1.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/31W6974011102/31W6974011102-2.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/31W6974011102/31W6974011102-3.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/31W6974011102/31W6974011102-4.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/31W6974011102/31W6974011102-5.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/31W6974011102/31W6974011102-6.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/31W6974011102/31W6974011102-7.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "37MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

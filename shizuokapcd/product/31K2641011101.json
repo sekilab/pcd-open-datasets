@@ -1,0 +1,76 @@
+{
+  "productNo": {
+    "value": "31-K2641-01-11-01"
+  },
+  "name": {
+    "value": "令和元年度［第３１-Ｋ２６４１-０１号］一級河川足久保川ほか総合流域防災事業（広域系）（防災・安全交付金）工事（河床掘削工ICT導入型その２）"
+  },
+  "contractorName": {
+    "value": "（有）キーオブライフ"
+  },
+  "constructionPeriod": {
+    "value": "令和1年8月10日 ～ 令和2年2月28日"
+  },
+  "registeredDate": {
+    "value": "2020-02-25"
+  },
+  "measuredDate": {
+    "value": "2020-01-23"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-31K2641011101",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            138.354658917,
+            35.040868325313
+          ],
+          [
+            138.35465084626,
+            35.04542522728
+          ],
+          [
+            138.36671391879,
+            35.045439079057
+          ],
+          [
+            138.36672131972,
+            35.04088217476
+          ],
+          [
+            138.354658917,
+            35.040868325313
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "令和元年度［第３１-Ｋ２６４１-０１号］一級河川足久保川ほか総合流域防災事業（広域系）（防災・安全交付金）工事（河床掘削工ICT導入型その２）, （有）キーオブライフ"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/31K2641011101/31K2641011101-1.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "1MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

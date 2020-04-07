@@ -1,0 +1,76 @@
+{
+  "productNo": {
+    "value": "31-K3741-50-11-04"
+  },
+  "name": {
+    "value": "令和元年度［第３１-Ｋ３７４１-５０号］一級河川内牧川河川維持修繕工事（河床掘削工ICT導入型）"
+  },
+  "contractorName": {
+    "value": "（株）志田建設"
+  },
+  "constructionPeriod": {
+    "value": "令和1年11月19日 ～ 令和2年3月19日"
+  },
+  "registeredDate": {
+    "value": "2020-03-17"
+  },
+  "measuredDate": {
+    "value": "2020-03-17"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-31K3741501104",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            138.35277124994,
+            35.011644942031
+          ],
+          [
+            138.35276337407,
+            35.01603960132
+          ],
+          [
+            138.35485078172,
+            35.016042115608
+          ],
+          [
+            138.35485854595,
+            35.011647455911
+          ],
+          [
+            138.35277124994,
+            35.011644942031
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "令和元年度［第３１-Ｋ３７４１-５０号］一級河川内牧川河川維持修繕工事（河床掘削工ICT導入型）, （株）志田建設"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/31K3741501104/31K3741501104-1.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "1MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

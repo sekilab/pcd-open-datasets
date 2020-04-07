@@ -1,0 +1,76 @@
+{
+  "productNo": {
+    "value": "31-K3751-22-11-02"
+  },
+  "name": {
+    "value": "令和元年度［第３１-Ｋ３７５１-２２号］二級河川栃山川河川維持修繕工事（河床掘削工）"
+  },
+  "contractorName": {
+    "value": "（株）斎藤工務店"
+  },
+  "constructionPeriod": {
+    "value": "令和1年11月26日 ～ 令和2年3月6日"
+  },
+  "registeredDate": {
+    "value": "2020-03-07"
+  },
+  "measuredDate": {
+    "value": "2020-03-06"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-31K3751221102",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            138.30814262646,
+            34.821712622178
+          ],
+          [
+            138.30814115489,
+            34.822347274653
+          ],
+          [
+            138.30940268683,
+            34.82234925738
+          ],
+          [
+            138.30940414872,
+            34.821714604859
+          ],
+          [
+            138.30814262646,
+            34.821712622178
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "令和元年度［第３１-Ｋ３７５１-２２号］二級河川栃山川河川維持修繕工事（河床掘削工）, （株）斎藤工務店"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/31K3751221102/31K3751221102-1.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "4MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

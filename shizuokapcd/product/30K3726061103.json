@@ -1,0 +1,76 @@
+{
+  "productNo": {
+    "value": "30-K3726-06-11-03"
+  },
+  "name": {
+    "value": "令和元年度［第３０-Ｋ３７２６-０６号］二級河川土肥山川河川維持修繕工事（河床掘削工）"
+  },
+  "contractorName": {
+    "value": "青木興業（株）"
+  },
+  "constructionPeriod": {
+    "value": "令和1年10月11日 ～ 令和2年3月5日"
+  },
+  "registeredDate": {
+    "value": "2020-03-03"
+  },
+  "measuredDate": {
+    "value": "2020-03-03"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-30K3726061103",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            138.79157718988,
+            34.910107763613
+          ],
+          [
+            138.79158107829,
+            34.91120756335
+          ],
+          [
+            138.7934852413,
+            34.91120297995
+          ],
+          [
+            138.7934813275,
+            34.9101031804
+          ],
+          [
+            138.79157718988,
+            34.910107763613
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "令和元年度［第３０-Ｋ３７２６-０６号］二級河川土肥山川河川維持修繕工事（河床掘削工）, 青木興業（株）"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30K3726061103/30K3726061103-1.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "0MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "productNo": {
+    "value": "31-K4454-01-11-01"
+  },
+  "name": {
+    "value": "令和元年度［第３１-Ｋ４４５４-０１号］二級河川坂口谷川緊急自然災害防止対策事業工事（河道掘削工）（ICT導入型）"
+  },
+  "contractorName": {
+    "value": "（株）木村組"
+  },
+  "constructionPeriod": {
+    "value": "令和1年9月30日 ～ 令和2年2月13日"
+  },
+  "registeredDate": {
+    "value": "2020-02-26"
+  },
+  "measuredDate": {
+    "value": "2020-02-25"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-31K4454011101",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            138.22012503285,
+            34.776637954019
+          ],
+          [
+            138.22011914607,
+            34.778381230725
+          ],
+          [
+            138.22906621178,
+            34.778401471415
+          ],
+          [
+            138.22907191039,
+            34.776658193402
+          ],
+          [
+            138.22012503285,
+            34.776637954019
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "令和元年度［第３１-Ｋ４４５４-０１号］二級河川坂口谷川緊急自然災害防止対策事業工事（河道掘削工）（ICT導入型）, （株）木村組"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/31K4454011101/31K4454011101-1.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "24MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

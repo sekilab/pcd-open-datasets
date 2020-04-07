@@ -1,0 +1,88 @@
+{
+  "productNo": {
+    "value": "31-XXX10-01-00-01"
+  },
+  "name": {
+    "value": "平成30年度　（市）材木20号線詳細設計業務"
+  },
+  "contractorName": {
+    "value": ""
+  },
+  "constructionPeriod": {
+    "value": ""
+  },
+  "registeredDate": {
+    "value": "2020-04-02"
+  },
+  "measuredDate": {
+    "value": "2019-12-11"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-31XXX10010001",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            138.50139776076,
+            36.003231969941
+          ],
+          [
+            138.50139779457,
+            36.005147961519
+          ],
+          [
+            138.50370323574,
+            36.005147912499
+          ],
+          [
+            138.50370314615,
+            36.003231920925
+          ],
+          [
+            138.50139776076,
+            36.003231969941
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "平成30年度　（市）材木20号線詳細設計業務, "
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/31XXX10010001/31XXX10010001-1.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/31XXX10010001/31XXX10010001-2.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/31XXX10010001/31XXX10010001-3.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/31XXX10010001/31XXX10010001-4.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/31XXX10010001/31XXX10010001-5.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/31XXX10010001/31XXX10010001-6.las",
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/31XXX10010001/31XXX10010001-7.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "200MB",
+      "7MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}

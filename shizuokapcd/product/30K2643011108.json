@@ -1,0 +1,76 @@
+{
+  "productNo": {
+    "value": "30-K2643-01-11-08"
+  },
+  "name": {
+    "value": "令和元年度［第３０-Ｋ２６４３-０１号］二級河川巴川（麻機遊水地）総合治水対策特定河川事業（防災・安全交付金）工事（巴川掘削工ICT導入型）"
+  },
+  "contractorName": {
+    "value": "帝建設工業（株）"
+  },
+  "constructionPeriod": {
+    "value": "令和1年11月2日 ～ 令和2年3月16日"
+  },
+  "registeredDate": {
+    "value": "2020-03-23"
+  },
+  "measuredDate": {
+    "value": "2020-03-23"
+  },
+  "sourceStatement": {
+    "value": "出典：「静岡県ポイントクラウドデータベース」または「静岡県ＰＣＤＢ」"
+  },
+  "id": "shizuoka-pcd-30K2643011108",
+  "type": "PointCloudDatabase",
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            138.39146206966,
+            35.018581957935
+          ],
+          [
+            138.39145731642,
+            35.022178819093
+          ],
+          [
+            138.39262986048,
+            35.022179862112
+          ],
+          [
+            138.39263456237,
+            35.018583000815
+          ],
+          [
+            138.39146206966,
+            35.018581957935
+          ]
+        ]
+      ]
+    }
+  },
+  "description": {
+    "value": "令和元年度［第３０-Ｋ２６４３-０１号］二級河川巴川（麻機遊水地）総合治水対策特定河川事業（防災・安全交付金）工事（巴川掘削工ICT導入型）, 帝建設工業（株）"
+  },
+  "source": {
+    "type": "URL",
+    "value": "https://pointcloud.pref.shizuoka.jp"
+  },
+  "lasUrls": {
+    "value": [
+      "https://pointcloud.pref.shizuoka.jp/lasmap/public/30K2643011108/30K2643011108-1.las"
+    ]
+  },
+  "lasSizes": {
+    "value": [
+      "0MB"
+    ]
+  },
+  "license": {
+    "type": "URL",
+    "value": "https://creativecommons.org/licenses/by/4.0/legalcode.ja"
+  }
+}
