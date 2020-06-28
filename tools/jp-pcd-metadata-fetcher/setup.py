@@ -14,7 +14,7 @@ setup(
     name='jp-pcd-metadata-fetcher',
     version='0.0.1',
     description='Japan Point Cloud Database Metadata Fetcher',
-    url='https://github.com/colspan/pcd-open-datasets',
+    url='https://github.com/sekilab/pcd-open-datasets',
     author='Kunihiko Miyoshi',
     author_email='contact@colspan.net',
     classifiers=[
