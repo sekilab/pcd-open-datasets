@@ -44,6 +44,25 @@ class TextDownloader(luigi.Task):
             f.write(r.content.decode(self.decode))
 
 
+class BinaryDownloader(luigi.Task):
+    filepath = luigi.Parameter()
+    url = luigi.Parameter()
+
+    def output(self):
+        return luigi.LocalTarget(
+            format=luigi.format.Nop, path=self.filepath)
+
+    def run(self):
+        r = requests.get(self.url, stream=True)
+        if r.status_code == 200:
+            with self.output().open('w') as f:
+                # f.write(r.content)
+                for chunk in r.iter_content(chunk_size=1024*10):
+                    f.write(chunk)
+        else:
+            raise ConnectionError(r.status_code)
+
+
 class ShizuokaPCDProductList(luigi.Task):
     url = luigi.Parameter(
         'https://pointcloud.pref.shizuoka.jp/lasmap/ankenmapsrc?request=MarkerSet&Xmax=139.6856689453125&Xmin=137.08053588867188&Ymax=36.097938036628065&Ymin=33.83962341851979')
@@ -205,7 +224,7 @@ class ShizuokaPCDProductInfo(luigi.Task):
             json.dump(output_info, f, indent=2, ensure_ascii=False)
 
 
-class GenerateAllProductInfo(luigi.Task):
+class ShizuokaPCDGenerateAllProductInfo(luigi.Task):
     def requires(self):
         return ShizuokaPCDProductList()
 
@@ -216,6 +235,62 @@ class GenerateAllProductInfo(luigi.Task):
         for product in product_list:
             tasks.append(ShizuokaPCDProductInfo(product_id=product['id']))
         yield tasks
+
+
+shizuoka_2019_pointcloud_xyz_list = [
+    {'y': 906, 'x': 405, 'z': 10},
+    {'y': 906, 'x': 406, 'z': 10},
+    {'y': 907, 'x': 405, 'z': 10},
+    {'y': 907, 'x': 406, 'z': 10},
+]
+
+shizuoka_2019_pointcloud_url_def = 'https://gic-shizuoka.s3-ap-northeast-1.amazonaws.com/2020/Vectortile/{data_type}00/{z}/{x}/{y}.pbf'
+
+shizuoka_2019_pointcloud_type_list = ['ALB', 'LP', 'MMS']
+
+
+class Shizuoka2019PointCloudFetchPBF(luigi.Task):
+    x = luigi.IntParameter()
+    y = luigi.IntParameter()
+    z = luigi.IntParameter()
+    data_type = luigi.Parameter()
+
+    def get_url_params(self):
+        params = {
+            'x': self.x,
+            'y': self.y,
+            'z': self.z,
+            'data_type': self.data_type,
+        }
+        return params
+
+    def requires(self):
+        params = self.get_url_params()
+        url = shizuoka_2019_pointcloud_url_def.format(**params)
+        filepath = os.path.join(
+            'tmp',
+            'shizuoka-2019-pointcloud-{data_type}-{z}-{x}-{y}.pbf'.format(**params))
+        # TODO access denied
+        return BinaryDownloader(filepath, url)
+
+    def output(self):
+        params = self.get_url_params()
+        filepath = os.path.join(
+            'tmp',
+            'shizuoka-2019-pointcloud-{data_type}-{z}-{x}-{y}.txt'.format(**params))
+        return luigi.LocalTarget(filepath)
+
+    def run(self):
+        print(self.output().path)
+        raise NotImplementedError()
+
+
+class Shizuoka2019PointCloudFetchAllPBFs(luigi.Task):
+    def requires(self):
+        for data_type in shizuoka_2019_pointcloud_type_list:
+            for xyz in shizuoka_2019_pointcloud_xyz_list:
+                params = dict(xyz, data_type=data_type)
+        return Shizuoka2019PointCloudFetchPBF(**params)
 
 
 def command():
